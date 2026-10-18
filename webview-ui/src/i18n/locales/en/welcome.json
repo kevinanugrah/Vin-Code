@@ -1,18 +1,18 @@
 {
 	"landing": {
-		"greeting": "Welcome to Zoo Code!",
-		"introduction": "With a range of built-in and extensible Modes, Zoo Code lets you plan, architect, code, debug and boost your productivity like never before.",
+		"greeting": "Welcome to Vin Code!",
+		"introduction": "With a range of built-in and extensible Modes, Vin Code lets you plan, architect, code, debug and boost your productivity like never before.",
 		"getStarted": "Choose your provider"
 	},
 	"providerSignup": {
 		"heading": "Choose your provider",
-		"chooseProvider": "Zoo Code needs an LLM provider to work. Choose one to get started, you can add more later.",
+		"chooseProvider": "Vin Code needs an LLM provider to work. Choose one to get started, you can add more later.",
 		"goBack": "Back",
 		"finish": "Finish"
 	},
 	"telemetry": {
-		"helpImprove": "Help Improve Zoo Code",
-		"helpImproveMessage": "Zoo Code collects error and usage data, linked to a per-install identifier, to help us fix bugs and improve the extension. This telemetry does not collect your code or prompts. You can turn this off in <settingsLink>settings</settingsLink>.",
+		"helpImprove": "Help Improve Vin Code",
+		"helpImproveMessage": "Vin Code collects error and usage data, linked to a per-install identifier, to help us fix bugs and improve the extension. This telemetry does not collect your code or prompts. You can turn this off in <settingsLink>settings</settingsLink>.",
 		"accept": "Accept",
 		"decline": "Decline"
 	},

@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# 為 Zoo Code 做出貢獻
+# 為 Vin Code 做出貢獻
 
-Zoo Code 是社群專案。我們重視每一份貢獻。我們採用[先建 Issue](#issue-first-approach) 的方式。這表示每個 [Pull Request（PR）](#submitting-a-pull-request) 都必須連結到一個 GitHub Issue。請仔細閱讀這份指南。
+Vin Code 是社群專案。我們重視每一份貢獻。我們採用[先建 Issue](#issue-first-approach) 的方式。這表示每個 [Pull Request（PR）](#submitting-a-pull-request) 都必須連結到一個 GitHub Issue。請仔細閱讀這份指南。
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Zoo Code 是社群專案。我們重視每一份貢獻。我們採用[先建 Iss
 ### 可靠性優先
 
 - 讓 diff 編輯與指令執行每次都可靠。
-- 解決妨礙大家每天使用 Zoo Code 的問題。
-- 讓 Zoo Code 支援所有語言地區與平台。
+- 解決妨礙大家每天使用 Vin Code 的問題。
+- 讓 Vin Code 支援所有語言地區與平台。
 - 支援更多 AI 供應商與模型。
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Zoo Code 是社群專案。我們重視每一份貢獻。我們採用[先建 Iss
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. 加入 Zoo Code 社群
+### 3. 加入 Vin Code 社群
 
 - **Discord：** 加入我們的 [Discord](https://discord.gg/VxfP4Vx3gX)。
 - **Reddit：** 加入我們的 [Reddit](https://www.reddit.com/r/ZooCode/)。
@@ -109,7 +109,7 @@ Zoo Code 是社群專案。我們重視每一份貢獻。我們採用[先建 Iss
 ### 決定做什麼
 
 - 查看 [GitHub Issues 頁面](https://github.com/Zoo-Code-Org/Zoo-Code/issues)。
-- 文件相關工作請前往 [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs)。
+- 文件相關工作請前往 [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs)。
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Zoo Code 是社群專案。我們重視每一份貢獻。我們採用[先建 Iss
 - 使用[「Bug Report」範本](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose)建立新的錯誤回報，並提供：
     - 清楚、有編號的重現步驟
     - 預期結果與實際結果
-    - Zoo Code 版本（必填）
+    - Vin Code 版本（必填）
     - API 供應商與模型（如與問題相關）
 - **安全問題：** 透過 [security advisories](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new) 私下回報。
 
@@ -258,4 +258,4 @@ PR 必須容易審查、經過測試，並且容易維護。開啟 PR 前，確�
 
 ## 法律條款
 
-參與貢獻即表示你同意以 Apache 2.0 授權條款發布你的貢獻。這也是 Zoo Code 使用的授權條款。
+參與貢獻即表示你同意以 Apache 2.0 授權條款發布你的貢獻。這也是 Vin Code 使用的授權條款。

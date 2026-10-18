@@ -12,7 +12,7 @@ const diff = `@@ -1,3 +1,3 @@
 
 const source = Array.from(
 	{ length: 36 },
-	(_, index) => `const greeting${index + 1} = \`Hello, Zoo Code ${index + 1}\``,
+	(_, index) => `const greeting${index + 1} = \`Hello, Vin Code ${index + 1}\``,
 ).join("\n")
 
 export function RenderedContentContrastFixture() {

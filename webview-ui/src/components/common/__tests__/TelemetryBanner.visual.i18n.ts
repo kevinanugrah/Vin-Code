@@ -2,9 +2,9 @@ import i18next from "i18next"
 import { initReactI18next } from "react-i18next"
 
 export const visualTestTranslations: Record<string, string> = {
-	"welcome:telemetry.helpImprove": "Help Improve Zoo Code",
+	"welcome:telemetry.helpImprove": "Help Improve Vin Code",
 	"welcome:telemetry.helpImproveMessage":
-		"Zoo Code collects error and usage data, linked to a per-install identifier, to help us fix bugs and improve the extension. This telemetry does not collect your code or prompts. You can turn this off in <settingsLink>settings</settingsLink>.",
+		"Vin Code collects error and usage data, linked to a per-install identifier, to help us fix bugs and improve the extension. This telemetry does not collect your code or prompts. You can turn this off in <settingsLink>settings</settingsLink>.",
 	"welcome:telemetry.accept": "Accept",
 	"welcome:telemetry.decline": "Decline",
 }

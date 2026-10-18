@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "Tim pengembang AI lengkap di editor kamu."
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "Gagal mengimpor pengaturan ZooCode secara otomatis: {{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "Tidak ada riwayat tugas Roo Code yang ditemukan untuk diimpor dari {{domain}}.",
-			"alreadyImported_one": "Semua {{count}} riwayat tugas Roo Code sudah diimpor ke Zoo Code.",
-			"alreadyImported_other": "Semua {{count}} riwayat tugas Roo Code sudah diimpor ke Zoo Code."
+			"alreadyImported_one": "Semua {{count}} riwayat tugas Roo Code sudah diimpor ke Vin Code.",
+			"alreadyImported_other": "Semua {{count}} riwayat tugas Roo Code sudah diimpor ke Vin Code."
 		}
 	},
 	"info": {
@@ -179,8 +179,8 @@
 			"signInUnavailable": "Masuk ke Roo Code Cloud saat ini tidak tersedia. Konfigurasikan penyedia lain untuk melanjutkan."
 		},
 		"rooHistoryImport": {
-			"success_one": "{{count}} riwayat tugas Roo Code berhasil diimpor ke Zoo Code.",
-			"success_other": "{{count}} riwayat tugas Roo Code berhasil diimpor ke Zoo Code."
+			"success_one": "{{count}} riwayat tugas Roo Code berhasil diimpor ke Vin Code.",
+			"success_other": "{{count}} riwayat tugas Roo Code berhasil diimpor ke Vin Code."
 		}
 	},
 	"answers": {
@@ -212,7 +212,7 @@
 		"enter_valid_path": "Silakan masukkan path yang valid"
 	},
 	"input": {
-		"task_prompt": "Apa yang harus Zoo lakukan?",
+		"task_prompt": "Apa yang harus Vin lakukan?",
 		"task_placeholder": "Ketik tugas kamu di sini"
 	},
 	"settings": {
@@ -274,18 +274,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: Token autentikasi yang diterima tidak valid.",
-			"token_verification_failed": "Zoo Code: Verifikasi token gagal.",
-			"invalid_token": "Zoo Code: Token tidak valid.",
-			"could_not_verify_token": "Zoo Code: Tidak dapat memverifikasi token.",
-			"session_expired": "Sesi Zoo Code kedaluwarsa. Silakan masuk lagi untuk melanjutkan menggunakan Zoo Gateway.",
+			"invalid_token_received": "Vin Code: Token autentikasi yang diterima tidak valid.",
+			"token_verification_failed": "Vin Code: Verifikasi token gagal.",
+			"invalid_token": "Vin Code: Token tidak valid.",
+			"could_not_verify_token": "Vin Code: Tidak dapat memverifikasi token.",
+			"session_expired": "Sesi Vin Code kedaluwarsa. Silakan masuk lagi untuk melanjutkan menggunakan Zoo Gateway.",
 			"out_of_credits": "Zoo Gateway: kredit tidak cukup. Tambahkan kredit untuk melanjutkan.",
 			"account_unavailable": "Zoo Gateway: akun Anda sedang tidak tersedia. Silakan hubungi dukungan.",
 			"budget_exceeded": "Zoo Gateway: anggaran penggunaan tercapai. Tunggu reset anggaran atau isi ulang."
 		},
 		"info": {
-			"connected": "Zoo Code: Berhasil terhubung! Kamu sekarang bisa menggunakan Zoo Code sebagai penyedia AI.",
-			"disconnected": "Zoo Code: Berhasil terputus."
+			"connected": "Vin Code: Berhasil terhubung! Kamu sekarang bisa menggunakan Vin Code sebagai penyedia AI.",
+			"disconnected": "Vin Code: Berhasil terputus."
 		},
 		"buttons": {
 			"sign_in": "Masuk",
@@ -294,9 +294,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Jelaskan dengan Zoo Code",
-		"fix": "Perbaiki dengan Zoo Code",
-		"improve": "Tingkatkan dengan Zoo Code",
-		"addToContext": "Tambahkan ke Zoo Code"
+		"explain": "Jelaskan dengan Vin Code",
+		"fix": "Perbaiki dengan Vin Code",
+		"improve": "Tingkatkan dengan Vin Code",
+		"addToContext": "Tambahkan ke Vin Code"
 	}
 }

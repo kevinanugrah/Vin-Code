@@ -9,14 +9,14 @@
           <em>जल्दी मदद पाएं → <a href="https://discord.gg/VxfP4Vx3gX">Discord जॉइन करें</a> • Async पसंद है? → <a href="https://www.reddit.com/r/ZooCode/">r/ZooCode जॉइन करें</a></em>
         </p>
 
-        # Zoo Code
+        # Vin Code
 
         > तुम्हारी AI-संचालित डेवलपमेंट टीम, सीधे तुम्हारे एडिटर में
 
-        ## हम हैं Zoo Code
+        ## हम हैं Vin Code
 
 > Roo टीम के [Roomote](https://roomote.dev/) पर focus करने के लिए Roo Code का
-> active development बंद करने के बाद, Zoo Code इस project का development
+> active development बंद करने के बाद, Vin Code इस project का development
 > आगे बढ़ा रहा है। जो कुछ भी उन्होंने बनाया, उसके लिए Roo टीम का धन्यवाद।
 >
 > Core team ऐसे developers का समूह है जिन्होंने पहले Roo में योगदान दिया है
@@ -28,15 +28,15 @@
 > [Reddit](https://www.reddit.com/r/ZooCode), या
 > [PR या issue खोलें](https://github.com/Zoo-Code-Org/Zoo-Code) पर।
 >
-> _-Zoo Code Team_
+> _-Vin Code Team_
 
-## Roo Code से Zoo Code migration
+## Roo Code से Vin Code migration
 
-Roo Code से Zoo Code में आने के लिए एक quick guide तुम्हें [Roo→Zoo migration guide](https://docs.zoocode.dev/roo-to-zoo-migration) में मिल जाएगी। We plan to help users as much as possible during the transition, और उसी support के लिए हमारा [Reddit](https://www.reddit.com/r/ZooCode) और [Discord](https://discord.gg/VxfP4Vx3gX) है। अगर तुम्हें कोई problem हो या कोई question हो, आकर पूछो।
+Roo Code से Vin Code में आने के लिए एक quick guide तुम्हें [Roo→Zoo migration guide](https://docs.zoocode.dev/roo-to-zoo-migration) में मिल जाएगी। We plan to help users as much as possible during the transition, और उसी support के लिए हमारा [Reddit](https://www.reddit.com/r/ZooCode) और [Discord](https://discord.gg/VxfP4Vx3gX) है। अगर तुम्हें कोई problem हो या कोई question हो, आकर पूछो।
 
-## Roo Code के बाद Zoo Code ने क्या जोड़ा है
+## Roo Code के बाद Vin Code ने क्या जोड़ा है
 
-Zoo Code, Roo Code की बनाई नींव पर आगे बढ़ता है और इसे इन सुविधाओं के साथ लगातार विस्तार देता है:
+Vin Code, Roo Code की बनाई नींव पर आगे बढ़ता है और इसे इन सुविधाओं के साथ लगातार विस्तार देता है:
 
 - **Semble codebase intelligence** — तेज़, on-demand semantic code search, automatic setup के साथ और बिना किसी अलग indexing workflow के।
 - **ज़्यादा मज़बूत Orchestrator workflows** — अधिक सुरक्षित delegation, parallel task coordination, parent/child tasks की भरोसेमंद recovery और subtasks व provider profiles के बीच बेहतर isolation।
@@ -48,11 +48,11 @@ Zoo Code, Roo Code की बनाई नींव पर आगे बढ़�
 
 ## v3.90.0 में नया क्या है
 
-- ✨ **Provider और model:** GitHub Copilot अब एक provider है: sign in करें और Zoo Code आपके Copilot models लोड करता है। IO Intelligence अपना API key वाला provider है। Gemini 4 Argon, Gemini और Vertex पर है। GPT-6 Luna, OpenCode Go पर है। Gemini 4 Argon और GPT-6 Luna Zoo Gateway पर भी हैं।
-- 🧭 **Tool execution:** वही tool call दोहराने पर warning मिलती है, फिर Zoo Code वह loop रोक देता है। `attempt_completion` बंद करने से task अब अधूरी नहीं रहती। Queued messages उन्हीं command-protection checks से गुज़रते हैं जो सीधे भेजे commands से गुज़रते हैं।
+- ✨ **Provider और model:** GitHub Copilot अब एक provider है: sign in करें और Vin Code आपके Copilot models लोड करता है। IO Intelligence अपना API key वाला provider है। Gemini 4 Argon, Gemini और Vertex पर है। GPT-6 Luna, OpenCode Go पर है। Gemini 4 Argon और GPT-6 Luna Zoo Gateway पर भी हैं।
+- 🧭 **Tool execution:** वही tool call दोहराने पर warning मिलती है, फिर Vin Code वह loop रोक देता है। `attempt_completion` बंद करने से task अब अधूरी नहीं रहती। Queued messages उन्हीं command-protection checks से गुज़रते हैं जो सीधे भेजे commands से गुज़रते हैं।
 - ⚡ **Reasoning और streaming:** Anthropic adaptive thinking chat में दिखता है, और thinking tokens गिने जाते हैं। R1 toggle llama.cpp, Ollama और LM Studio का reasoning रखता है। Codex encrypted reasoning को उस summary के साथ रखता है जो आप देखते हैं। VS Code language-model streams stream fail होने पर guarded recovery इस्तेमाल करते हैं।
 
-## Zoo Code आपके लिए क्या कर सकता है?
+## Vin Code आपके लिए क्या कर सकता है?
 
 - प्राकृतिक भाषा विवरण से कोड उत्पन्न करें
 - मोड के साथ अनुकूलन: कोड, आर्किटेक्ट, पूछें, डीबग और कस्टम मोड
@@ -76,7 +76,7 @@ Zoo Code, Roo Code की बनाई नींव पर आगे बढ़�
 
 ## संसाधन
 
-- **[दस्तावेज़ीकरण](https://docs.zoocode.dev):** Zoo Code को स्थापित करने, कॉन्फ़िगर करने और उसमें महारत हासिल करने के लिए आधिकारिक गाइड।
+- **[दस्तावेज़ीकरण](https://docs.zoocode.dev):** Vin Code को स्थापित करने, कॉन्फ़िगर करने और उसमें महारत हासिल करने के लिए आधिकारिक गाइड।
 - **[डिस्कॉर्ड सर्वर](https://discord.gg/VxfP4Vx3gX):** रीयल-टाइम सहायता और चर्चा के लिए समुदाय में शामिल हों।
 - **[रेडिट समुदाय](https://www.reddit.com/r/ZooCode):** अपने अनुभव साझा करें और देखें कि दूसरे क्या बना रहे हैं।
 - **[गिटहब मुद्दे](https://github.com/Zoo-Code-Org/Zoo-Code/issues):** बग की रिपोर्ट करें और विकास को ट्रैक करें।
@@ -106,7 +106,7 @@ pnpm install
 
 सक्रिय विकास के लिए, वीएसकोड के अंतर्निहित डिबगिंग का उपयोग करें:
 
-वीएसकोड में `F5` दबाएं (या **रन** → **डीबगिंग प्रारंभ करें** पर जाएं)। यह Zoo Code एक्सटेंशन के साथ एक नई वीएसकोड विंडो खोलेगा।
+वीएसकोड में `F5` दबाएं (या **रन** → **डीबगिंग प्रारंभ करें** पर जाएं)। यह Vin Code एक्सटेंशन के साथ एक नई वीएसकोड विंडो खोलेगा।
 
 - वेबव्यू में किए गए परिवर्तन तुरंत दिखाई देंगे।
 - कोर एक्सटेंशन में किए गए परिवर्तन भी स्वचालित रूप से हॉट रीलोड हो जाएंगे।
@@ -166,8 +166,8 @@ pnpm install:vsix [-y] [--editor=<command>]
 
 ## लाइसेंस
 
-[Apache 2.0 © 2025 Zoo Code Org](../../LICENSE)
+[Apache 2.0 © 2025 Vin Code Org](../../LICENSE)
 
 ---
 
-**Zoo Code का आनंद लें!** चाहे आप इसे short leash पर रखें या इसे autonomously घूमने दें, हम यह देखने के लिए उत्साहित हैं कि आप क्या बनाते हैं। अगर आपके पास questions या feature ideas हैं, तो एक [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues) खोलें या एक [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions) शुरू करें। Happy coding!
+**Vin Code का आनंद लें!** चाहे आप इसे short leash पर रखें या इसे autonomously घूमने दें, हम यह देखने के लिए उत्साहित हैं कि आप क्या बनाते हैं। अगर आपके पास questions या feature ideas हैं, तो एक [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues) खोलें या एक [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions) शुरू करें। Happy coding!

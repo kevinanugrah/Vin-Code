@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Berkontribusi pada Zoo Code
+# Berkontribusi pada Vin Code
 
-Zoo Code adalah proyek komunitas. Kami menghargai setiap kontribusi. Kami memakai pendekatan [issue dulu](#issue-first-approach). Artinya, setiap [Pull Request (PR)](#submitting-a-pull-request) harus menautkan issue GitHub. Baca panduan ini dengan teliti.
+Vin Code adalah proyek komunitas. Kami menghargai setiap kontribusi. Kami memakai pendekatan [issue dulu](#issue-first-approach). Artinya, setiap [Pull Request (PR)](#submitting-a-pull-request) harus menautkan issue GitHub. Baca panduan ini dengan teliti.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Peta jalan kami menunjukkan arah proyek. Sesuaikan kontribusimu dengan tujuan in
 ### Keandalan lebih dulu
 
 - Buat pengeditan diff dan eksekusi perintah selalu andal.
-- Hapus masalah yang menghalangi orang memakai Zoo Code setiap hari.
-- Buat Zoo Code bekerja dalam semua bahasa dan di semua platform.
+- Hapus masalah yang menghalangi orang memakai Vin Code setiap hari.
+- Buat Vin Code bekerja dalam semua bahasa dan di semua platform.
 - Tambahkan dukungan untuk lebih banyak penyedia dan model AI.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Dalam PR-mu, sebutkan bidang mana yang didukung oleh perubahan itu.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Bergabung dengan komunitas Zoo Code
+### 3. Bergabung dengan komunitas Vin Code
 
 - **Discord:** Bergabung dengan [Discord](https://discord.gg/VxfP4Vx3gX) kami.
 - **Reddit:** Bergabung dengan [Reddit](https://www.reddit.com/r/ZooCode/) kami.
@@ -109,7 +109,7 @@ Setiap kontribusi dimulai dengan issue GitHub. Pakai template singkat kami.
 ### Memilih pekerjaan
 
 - Lihat [halaman GitHub Issues](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- Untuk dokumentasi, buka [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- Untuk dokumentasi, buka [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Setiap kontribusi dimulai dengan issue GitHub. Pakai template singkat kami.
 - Buat laporan bug baru dengan [template "Bug Report"](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) yang memuat:
     - Langkah reproduksi yang jelas dan bernomor
     - Hasil yang diharapkan dan hasil sebenarnya
-    - Versi Zoo Code (wajib)
+    - Versi Vin Code (wajib)
     - Penyedia API dan model, jika relevan
 - **Masalah keamanan**: Laporkan secara pribadi melalui [security advisories](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -258,4 +258,4 @@ Aturan ini adalah panduan penulisan. Peninjau tidak memeriksa kepatuhan formal t
 
 ## Ketentuan hukum
 
-Dengan berkontribusi, kamu setuju bahwa kontribusimu memakai Lisensi Apache 2.0. Ini adalah lisensi Zoo Code.
+Dengan berkontribusi, kamu setuju bahwa kontribusimu memakai Lisensi Apache 2.0. Ini adalah lisensi Vin Code.

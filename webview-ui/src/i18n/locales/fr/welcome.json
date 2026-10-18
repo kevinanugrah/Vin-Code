@@ -1,18 +1,18 @@
 {
 	"landing": {
-		"greeting": "Bienvenue sur Zoo Code !",
-		"introduction": "Avec une gamme de Modes intégrés et extensibles, Zoo Code te permet de planifier, architecturer, coder, déboguer et augmenter ta productivité comme jamais auparavant.",
+		"greeting": "Bienvenue sur Vin Code !",
+		"introduction": "Avec une gamme de Modes intégrés et extensibles, Vin Code te permet de planifier, architecturer, coder, déboguer et augmenter ta productivité comme jamais auparavant.",
 		"getStarted": "Choisis ton fournisseur"
 	},
 	"providerSignup": {
 		"heading": "Choisis ton fournisseur",
-		"chooseProvider": "Zoo Code a besoin d'un fournisseur LLM pour fonctionner. Choisis-en un pour commencer, tu peux en ajouter d'autres plus tard.",
+		"chooseProvider": "Vin Code a besoin d'un fournisseur LLM pour fonctionner. Choisis-en un pour commencer, tu peux en ajouter d'autres plus tard.",
 		"goBack": "Retour",
 		"finish": "Terminer"
 	},
 	"telemetry": {
-		"helpImprove": "Aide à améliorer Zoo Code",
-		"helpImproveMessage": "Zoo Code collecte des données d'erreurs et d'utilisation, associées à un identifiant lié à l'installation, pour nous aider à corriger les bugs et améliorer l'extension. Cette télémétrie ne collecte pas ton code ni tes prompts. Tu peux désactiver ceci dans les <settingsLink>paramètres</settingsLink>.",
+		"helpImprove": "Aide à améliorer Vin Code",
+		"helpImproveMessage": "Vin Code collecte des données d'erreurs et d'utilisation, associées à un identifiant lié à l'installation, pour nous aider à corriger les bugs et améliorer l'extension. Cette télémétrie ne collecte pas ton code ni tes prompts. Tu peux désactiver ceci dans les <settingsLink>paramètres</settingsLink>.",
 		"accept": "Accepter",
 		"decline": "Refuser"
 	},

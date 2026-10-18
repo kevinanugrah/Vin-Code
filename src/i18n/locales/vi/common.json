@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "Toàn bộ đội ngũ phát triển AI trong trình soạn thảo của bạn."
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "Không thể tự động nhập cài đặt ZooCode: {{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "Không tìm thấy lịch sử nhiệm vụ Roo Code nào để nhập từ {{domain}}.",
-			"alreadyImported_one": "{{count}} lịch sử nhiệm vụ Roo Code đã được nhập vào Zoo Code.",
-			"alreadyImported_other": "Tất cả {{count}} lịch sử nhiệm vụ Roo Code đã được nhập vào Zoo Code."
+			"alreadyImported_one": "{{count}} lịch sử nhiệm vụ Roo Code đã được nhập vào Vin Code.",
+			"alreadyImported_other": "Tất cả {{count}} lịch sử nhiệm vụ Roo Code đã được nhập vào Vin Code."
 		}
 	},
 	"info": {
@@ -179,8 +179,8 @@
 			"signInUnavailable": "Đăng nhập Roo Code Cloud hiện không khả dụng. Hãy cấu hình nhà cung cấp khác để tiếp tục."
 		},
 		"rooHistoryImport": {
-			"success_one": "Đã nhập {{count}} lịch sử nhiệm vụ Roo Code vào Zoo Code.",
-			"success_other": "Đã nhập {{count}} lịch sử nhiệm vụ Roo Code vào Zoo Code."
+			"success_one": "Đã nhập {{count}} lịch sử nhiệm vụ Roo Code vào Vin Code.",
+			"success_other": "Đã nhập {{count}} lịch sử nhiệm vụ Roo Code vào Vin Code."
 		}
 	},
 	"answers": {
@@ -281,18 +281,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: Nhận được token xác thực không hợp lệ.",
-			"token_verification_failed": "Zoo Code: Xác minh token thất bại.",
-			"invalid_token": "Zoo Code: Token không hợp lệ.",
-			"could_not_verify_token": "Zoo Code: Không thể xác minh token.",
-			"session_expired": "Phiên Zoo Code đã hết hạn. Vui lòng đăng nhập lại để tiếp tục sử dụng Zoo Gateway.",
+			"invalid_token_received": "Vin Code: Nhận được token xác thực không hợp lệ.",
+			"token_verification_failed": "Vin Code: Xác minh token thất bại.",
+			"invalid_token": "Vin Code: Token không hợp lệ.",
+			"could_not_verify_token": "Vin Code: Không thể xác minh token.",
+			"session_expired": "Phiên Vin Code đã hết hạn. Vui lòng đăng nhập lại để tiếp tục sử dụng Zoo Gateway.",
 			"out_of_credits": "Zoo Gateway: không đủ tín dụng. Thêm tín dụng để tiếp tục.",
 			"account_unavailable": "Zoo Gateway: tài khoản của bạn hiện không khả dụng. Vui lòng liên hệ hỗ trợ.",
 			"budget_exceeded": "Zoo Gateway: đã đạt ngân sách sử dụng. Chờ đặt lại ngân sách hoặc nạp thêm."
 		},
 		"info": {
-			"connected": "Zoo Code: Kết nối thành công! Bạn có thể sử dụng Zoo Code làm nhà cung cấp AI.",
-			"disconnected": "Zoo Code: Đã ngắt kết nối thành công."
+			"connected": "Vin Code: Kết nối thành công! Bạn có thể sử dụng Vin Code làm nhà cung cấp AI.",
+			"disconnected": "Vin Code: Đã ngắt kết nối thành công."
 		},
 		"buttons": {
 			"sign_in": "Đăng nhập",
@@ -301,9 +301,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Giải thích bằng Zoo Code",
-		"fix": "Sửa bằng Zoo Code",
-		"improve": "Cải thiện bằng Zoo Code",
-		"addToContext": "Thêm vào Zoo Code"
+		"explain": "Giải thích bằng Vin Code",
+		"fix": "Sửa bằng Vin Code",
+		"improve": "Cải thiện bằng Vin Code",
+		"addToContext": "Thêm vào Vin Code"
 	}
 }

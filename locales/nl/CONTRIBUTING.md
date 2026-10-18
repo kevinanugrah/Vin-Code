@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Bijdragen aan Zoo Code
+# Bijdragen aan Vin Code
 
-Zoo Code is een communityproject. We waarderen elke bijdrage. We werken volgens de [Issue-First-aanpak](#issue-first-approach). Elke [Pull Request (PR)](#submitting-a-pull-request) moet dus naar een GitHub Issue verwijzen. Lees deze gids goed.
+Vin Code is een communityproject. We waarderen elke bijdrage. We werken volgens de [Issue-First-aanpak](#issue-first-approach). Elke [Pull Request (PR)](#submitting-a-pull-request) moet dus naar een GitHub Issue verwijzen. Lees deze gids goed.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Onze roadmap laat de richting van het project zien. Stem je bijdragen af op deze
 ### Betrouwbaarheid voorop
 
 - Zorg dat diff-bewerkingen en het uitvoeren van opdrachten elke keer betrouwbaar werken.
-- Los de problemen op die mensen verhinderen om Zoo Code dagelijks te gebruiken.
-- Laat Zoo Code werken in alle taalregio's en op alle platforms.
+- Los de problemen op die mensen verhinderen om Vin Code dagelijks te gebruiken.
+- Laat Vin Code werken in alle taalregio's en op alle platforms.
 - Ondersteun meer AI-aanbieders en modellen.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Geef in je PR aan welke van deze gebieden de wijziging ondersteunt.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Doe mee met de Zoo Code-community
+### 3. Doe mee met de Vin Code-community
 
 - **Discord:** Doe mee op onze [Discord](https://discord.gg/VxfP4Vx3gX).
 - **Reddit:** Doe mee op onze [Reddit](https://www.reddit.com/r/ZooCode/).
@@ -109,7 +109,7 @@ Elke bijdrage begint met een GitHub Issue. Gebruik onze korte templates.
 ### Kiezen waaraan je werkt
 
 - Bekijk de [GitHub Issues-pagina](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- Ga voor documentatie naar [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- Ga voor documentatie naar [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Elke bijdrage begint met een GitHub Issue. Gebruik onze korte templates.
 - Meld een nieuwe bug met de [template "Bug Report"](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) en vermeld:
     - Duidelijke, genummerde stappen om de bug te reproduceren
     - Het verwachte en het werkelijke resultaat
-    - De Zoo Code-versie (verplicht)
+    - De Vin Code-versie (verplicht)
     - De API-aanbieder en het model, als die van belang zijn
 - **Beveiligingsproblemen**: Meld ze privé via [security advisories](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -258,4 +258,4 @@ Deze regels zijn richtlijnen voor het schrijven in het Engels. Reviewers control
 
 ## Juridische zaken
 
-Door bij te dragen, ga je ermee akkoord dat je bijdragen de Apache 2.0 License gebruiken. Dit is de licentie van Zoo Code.
+Door bij te dragen, ga je ermee akkoord dat je bijdragen de Apache 2.0 License gebruiken. Dit is de licentie van Vin Code.

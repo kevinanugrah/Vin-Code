@@ -5,7 +5,7 @@ import { AppProviders } from "../../../../playwright/AppProviders"
 import { ChatTextArea } from "../ChatTextArea"
 
 export function ChatTextAreaStory() {
-	const [inputValue, setInputValue] = useState("Audit contrast across the Zoo Code webview")
+	const [inputValue, setInputValue] = useState("Audit contrast across the Vin Code webview")
 	const [selectedImages, setSelectedImages] = useState<string[]>([])
 	const [mode, setMode] = useState<Mode>(defaultModeSlug)
 

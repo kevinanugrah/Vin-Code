@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "A whole dev team of AI agents in your editor."
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "Failed to auto-import ZooCode settings: {{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "No Roo Code task history was found to import from {{domain}}.",
-			"alreadyImported_one": "All {{count}} Roo Code task history has already been imported into Zoo Code.",
-			"alreadyImported_other": "All {{count}} Roo Code task histories have already been imported into Zoo Code."
+			"alreadyImported_one": "All {{count}} Roo Code task history has already been imported into Vin Code.",
+			"alreadyImported_other": "All {{count}} Roo Code task histories have already been imported into Vin Code."
 		}
 	},
 	"info": {
@@ -176,8 +176,8 @@
 		"mode_exported": "Mode '{{mode}}' exported successfully",
 		"mode_imported": "Mode imported successfully",
 		"rooHistoryImport": {
-			"success_one": "Imported {{count}} Roo Code task history into Zoo Code.",
-			"success_other": "Imported {{count}} Roo Code task histories into Zoo Code."
+			"success_one": "Imported {{count}} Roo Code task history into Vin Code.",
+			"success_other": "Imported {{count}} Roo Code task histories into Vin Code."
 		},
 		"roo": {
 			"signInUnavailable": "Roo Code Cloud sign-in is currently unavailable. Configure another provider to continue."
@@ -212,7 +212,7 @@
 		"enter_valid_path": "Please enter a valid path"
 	},
 	"input": {
-		"task_prompt": "What should Zoo do?",
+		"task_prompt": "What should Vin do?",
 		"task_placeholder": "Type your task here"
 	},
 	"customModes": {
@@ -266,18 +266,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: Invalid authentication token received.",
-			"token_verification_failed": "Zoo Code: Token verification failed.",
-			"invalid_token": "Zoo Code: Invalid token.",
-			"could_not_verify_token": "Zoo Code: Could not verify token.",
-			"session_expired": "Zoo Code session expired. Please sign in again to continue using Zoo Gateway.",
+			"invalid_token_received": "Vin Code: Invalid authentication token received.",
+			"token_verification_failed": "Vin Code: Token verification failed.",
+			"invalid_token": "Vin Code: Invalid token.",
+			"could_not_verify_token": "Vin Code: Could not verify token.",
+			"session_expired": "Vin Code session expired. Please sign in again to continue using Zoo Gateway.",
 			"out_of_credits": "Zoo Gateway: insufficient credits. Add credits to continue.",
 			"account_unavailable": "Zoo Gateway: your account is currently unavailable. Please contact support.",
 			"budget_exceeded": "Zoo Gateway: usage budget reached. Wait for the budget to reset or top up."
 		},
 		"info": {
-			"connected": "Zoo Code: Successfully connected! You can now use Zoo Code as your AI provider.",
-			"disconnected": "Zoo Code: Disconnected successfully."
+			"connected": "Vin Code: Successfully connected! You can now use Vin Code as your AI provider.",
+			"disconnected": "Vin Code: Disconnected successfully."
 		},
 		"buttons": {
 			"sign_in": "Sign In",
@@ -286,9 +286,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Explain with Zoo Code",
-		"fix": "Fix with Zoo Code",
-		"improve": "Improve with Zoo Code",
-		"addToContext": "Add to Zoo Code"
+		"explain": "Explain with Vin Code",
+		"fix": "Fix with Vin Code",
+		"improve": "Improve with Vin Code",
+		"addToContext": "Add to Vin Code"
 	}
 }

@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Zoo Code への貢献
+# Vin Code への貢献
 
-Zoo Code はコミュニティのプロジェクトだ。すべての貢献を大切にしている。[Issue-First](#issue-first-approach) の方針で進める。つまり、すべての [Pull Request（PR）](#submitting-a-pull-request) は GitHub Issue にリンクする必要がある。このガイドをよく読んでほしい。
+Vin Code はコミュニティのプロジェクトだ。すべての貢献を大切にしている。[Issue-First](#issue-first-approach) の方針で進める。つまり、すべての [Pull Request（PR）](#submitting-a-pull-request) は GitHub Issue にリンクする必要がある。このガイドをよく読んでほしい。
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Zoo Code はコミュニティのプロジェクトだ。すべての貢献を�
 ### 信頼性を最優先に
 
 - diff による編集とコマンド実行を、毎回確実に動くようにする。
-- Zoo Code を毎日使う妨げになる問題を取り除く。
-- すべてのロケールとプラットフォームで Zoo Code を動かす。
+- Vin Code を毎日使う妨げになる問題を取り除く。
+- すべてのロケールとプラットフォームで Vin Code を動かす。
 - より多くの AI プロバイダーとモデルに対応する。
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ PR では、変更がどの分野を支えるかを説明しよう。
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Zoo Code コミュニティに参加する
+### 3. Vin Code コミュニティに参加する
 
 - **Discord:** [Discord](https://discord.gg/VxfP4Vx3gX) に参加しよう。
 - **Reddit:** [Reddit](https://www.reddit.com/r/ZooCode/) に参加しよう。
@@ -109,7 +109,7 @@ PR では、変更がどの分野を支えるかを説明しよう。
 ### 取り組む内容を決める
 
 - [GitHub Issues のページ](https://github.com/Zoo-Code-Org/Zoo-Code/issues)を見よう。
-- ドキュメントについては [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs) を見よう。
+- ドキュメントについては [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs) を見よう。
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ PR では、変更がどの分野を支えるかを説明しよう。
 - ["Bug Report" テンプレート](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose)で新しいバグ報告を作り、次を含めよう。
     - わかりやすい、番号付きの再現手順
     - 期待した結果と実際の結果
-    - Zoo Code のバージョン（必須）
+    - Vin Code のバージョン（必須）
     - 関係がある場合は API プロバイダーとモデル
 - **セキュリティの問題**: [セキュリティアドバイザリ](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new)で非公開の報告をしよう。
 
@@ -258,4 +258,4 @@ AI ツールを使って PR を作る場合は、次を守ろう。
 
 ## 法的事項
 
-貢献すると、自分の貢献に Apache 2.0 License を適用することに同意したことになる。これは Zoo Code のライセンスだ。
+貢献すると、自分の貢献に Apache 2.0 License を適用することに同意したことになる。これは Vin Code のライセンスだ。

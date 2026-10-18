@@ -1,5 +1,5 @@
 {
-	"greeting": "Welkom bij Zoo Code!",
+	"greeting": "Welkom bij Vin Code!",
 	"task": {
 		"title": "Taak",
 		"expand": "Taak uitvouwen",
@@ -98,7 +98,7 @@
 	"enqueueMessage": "Bericht aan de wachtrij toevoegen (wordt verzonden nadat de huidige taak is voltooid)",
 	"scrollToBottom": "Scroll naar onderaan de chat",
 	"scrollToLatestCheckpoint": "Scroll naar het vorige checkpoint",
-	"about": "Zoo Code is een heel AI-ontwikkelteam in je editor.",
+	"about": "Vin Code is een heel AI-ontwikkelteam in je editor.",
 	"docs": "Bekijk onze <DocsLink>documentatie</DocsLink> voor meer informatie.",
 	"onboarding": "Je takenlijst in deze werkruimte is leeg.",
 	"rooTips": {
@@ -166,7 +166,7 @@
 			"500": "Provider-serverfout. Er is iets mis aan de kant van de provider, er is niets mis met je verzoek.",
 			"docs": "Documentatie",
 			"goToSettings": "Instellingen",
-			"unknown": "Onbekende API-fout. Neem contact op met Zoo Code-support.",
+			"unknown": "Onbekende API-fout. Neem contact op met Vin Code-support.",
 			"connection": "Verbindingsfout. Zorg ervoor dat je een werkende internetverbinding hebt.",
 			"claudeCodeNotAuthenticated": "Je moet inloggen om Claude Code te gebruiken. Ga naar Instellingen en klik op \"Inloggen bij Claude Code\" om te authenticeren."
 		}
@@ -322,12 +322,12 @@
 		"triggerLabelAll": "BRRR"
 	},
 	"announcement": {
-		"title": "Zoo Code {{version}} uitgebracht",
-		"support": "Steun Zoo Code door ons een ster te geven op <githubLink>GitHub</githubLink>.",
+		"title": "Vin Code {{version}} uitgebracht",
+		"support": "Steun Vin Code door ons een ster te geven op <githubLink>GitHub</githubLink>.",
 		"release": {
-			"heading": "Wat is nieuw in Zoo Code v3.90.0",
-			"highlight1": "✨ Providers en modellen: GitHub Copilot is nu een provider: meld je aan en Zoo Code laadt je Copilot-modellen. IO Intelligence is een provider met een eigen API-sleutel. Gemini 4 Argon staat op Gemini en Vertex. GPT-6 Luna staat op OpenCode Go. Gemini 4 Argon en GPT-6 Luna staan ook op Zoo Gateway.",
-			"highlight2": "🧭 Tool-uitvoering: Dezelfde tool-aanroep herhalen geeft een waarschuwing, daarna stopt Zoo Code die lus. attempt_completion uitschakelen laat een taak niet langer onafgemaakt. Berichten in de wachtrij doorlopen dezelfde command-protection-controles als opdrachten die je direct verstuurt.",
+			"heading": "Wat is nieuw in Vin Code v3.90.0",
+			"highlight1": "✨ Providers en modellen: GitHub Copilot is nu een provider: meld je aan en Vin Code laadt je Copilot-modellen. IO Intelligence is een provider met een eigen API-sleutel. Gemini 4 Argon staat op Gemini en Vertex. GPT-6 Luna staat op OpenCode Go. Gemini 4 Argon en GPT-6 Luna staan ook op Zoo Gateway.",
+			"highlight2": "🧭 Tool-uitvoering: Dezelfde tool-aanroep herhalen geeft een waarschuwing, daarna stopt Vin Code die lus. attempt_completion uitschakelen laat een taak niet langer onafgemaakt. Berichten in de wachtrij doorlopen dezelfde command-protection-controles als opdrachten die je direct verstuurt.",
 			"highlight3": "⚡ Redeneren en streaming: Adaptief denken van Anthropic verschijnt in de chat en thinking tokens worden geteld. De R1-schakelaar bewaart redenering van llama.cpp, Ollama en LM Studio. Codex bewaart versleutelde redenering bij de samenvatting die je ziet. VS Code language-model-streams gebruiken guarded recovery als een stream mislukt."
 		},
 		"cloudAgents": {
@@ -379,7 +379,7 @@
 	"profileViolationWarning": "Het huidige profiel is niet compatibel met de instellingen van uw organisatie",
 	"shellIntegration": {
 		"title": "Waarschuwing commando-uitvoering",
-		"description": "Je commando wordt uitgevoerd zonder VSCode-terminal-shellintegratie. Om deze waarschuwing te onderdrukken kun je shellintegratie uitschakelen in de sectie <strong>Terminal</strong> van de <settingsLink>Zoo Code-instellingen</settingsLink> of de VSCode-terminalintegratie oplossen via de onderstaande link.",
+		"description": "Je commando wordt uitgevoerd zonder VSCode-terminal-shellintegratie. Om deze waarschuwing te onderdrukken kun je shellintegratie uitschakelen in de sectie <strong>Terminal</strong> van de <settingsLink>Vin Code-instellingen</settingsLink> of de VSCode-terminalintegratie oplossen via de onderstaande link.",
 		"troubleshooting": "Klik hier voor shell-integratie documentatie."
 	},
 	"ask": {

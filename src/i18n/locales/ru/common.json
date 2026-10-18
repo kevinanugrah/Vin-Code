@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "Целая команда ИИ-разработчиков в вашем редакторе."
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "Не удалось автоматически импортировать настройки ZooCode: {{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "История задач Roo Code для импорта из {{domain}} не найдена.",
-			"alreadyImported_one": "{{count}} история задач Roo Code уже импортирована в Zoo Code.",
-			"alreadyImported_other": "Все {{count}} истории задач Roo Code уже импортированы в Zoo Code."
+			"alreadyImported_one": "{{count}} история задач Roo Code уже импортирована в Vin Code.",
+			"alreadyImported_other": "Все {{count}} истории задач Roo Code уже импортированы в Vin Code."
 		}
 	},
 	"info": {
@@ -179,8 +179,8 @@
 			"signInUnavailable": "Вход в Roo Code Cloud сейчас недоступен. Настрой другого провайдера, чтобы продолжить."
 		},
 		"rooHistoryImport": {
-			"success_one": "{{count}} история задач Roo Code импортирована в Zoo Code.",
-			"success_other": "{{count}} историй задач Roo Code импортировано в Zoo Code."
+			"success_one": "{{count}} история задач Roo Code импортирована в Vin Code.",
+			"success_other": "{{count}} историй задач Roo Code импортировано в Vin Code."
 		}
 	},
 	"answers": {
@@ -274,18 +274,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: Получен недействительный token аутентификации.",
-			"token_verification_failed": "Zoo Code: Не удалось проверить token.",
-			"invalid_token": "Zoo Code: Недействительный token.",
-			"could_not_verify_token": "Zoo Code: Не удалось проверить token.",
-			"session_expired": "Сессия Zoo Code истекла. Войдите снова, чтобы продолжить использовать Zoo Gateway.",
+			"invalid_token_received": "Vin Code: Получен недействительный token аутентификации.",
+			"token_verification_failed": "Vin Code: Не удалось проверить token.",
+			"invalid_token": "Vin Code: Недействительный token.",
+			"could_not_verify_token": "Vin Code: Не удалось проверить token.",
+			"session_expired": "Сессия Vin Code истекла. Войдите снова, чтобы продолжить использовать Zoo Gateway.",
 			"out_of_credits": "Zoo Gateway: недостаточно кредитов. Добавьте кредиты, чтобы продолжить.",
 			"account_unavailable": "Zoo Gateway: ваша учётная запись сейчас недоступна. Обратитесь в поддержку.",
 			"budget_exceeded": "Zoo Gateway: лимит использования достигнут. Дождитесь сброса или пополните счёт."
 		},
 		"info": {
-			"connected": "Zoo Code: Успешно подключено! Теперь ты можешь использовать Zoo Code в качестве AI-провайдера.",
-			"disconnected": "Zoo Code: Успешно отключено."
+			"connected": "Vin Code: Успешно подключено! Теперь ты можешь использовать Vin Code в качестве AI-провайдера.",
+			"disconnected": "Vin Code: Успешно отключено."
 		},
 		"buttons": {
 			"sign_in": "Войти",
@@ -294,9 +294,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Объяснить с Zoo Code",
-		"fix": "Исправить с Zoo Code",
-		"improve": "Улучшить с Zoo Code",
-		"addToContext": "Добавить в Zoo Code"
+		"explain": "Объяснить с Vin Code",
+		"fix": "Исправить с Vin Code",
+		"improve": "Улучшить с Vin Code",
+		"addToContext": "Добавить в Vin Code"
 	}
 }

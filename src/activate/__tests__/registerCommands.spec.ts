@@ -206,7 +206,7 @@ describe("registerCommands handlers", () => {
 		async (command) => {
 			const panel: vscode.WebviewPanel = {
 				viewType: "zoo-code.TabPanelProvider",
-				title: "Zoo Code",
+				title: "Vin Code",
 				webview: {
 					options: {},
 					html: "",
@@ -461,7 +461,7 @@ describe("openClineInNewTab", () => {
 		setPanel(undefined, "tab")
 	})
 
-	it("creates a webview panel with title 'Zoo Code'", async () => {
+	it("creates a webview panel with title 'Vin Code'", async () => {
 		const webviewFocusTracker = new WebviewFocusTracker()
 		await openClineInNewTab({ context: mockContext, outputChannel: mockOutputChannel, webviewFocusTracker })
 		expect(ClineProvider).toHaveBeenCalledWith(
@@ -475,7 +475,7 @@ describe("openClineInNewTab", () => {
 
 		expect(vscode.window.createWebviewPanel).toHaveBeenCalledWith(
 			"zoo-code.TabPanelProvider",
-			"Zoo Code",
+			"Vin Code",
 			expect.any(Number),
 			expect.objectContaining({
 				enableScripts: true,

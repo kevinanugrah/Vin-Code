@@ -1,5 +1,5 @@
 {
-	"greeting": "Zoo Code'a hoş geldin!",
+	"greeting": "Vin Code'a hoş geldin!",
 	"task": {
 		"title": "Görev",
 		"expand": "Görevi genişlet",
@@ -98,7 +98,7 @@
 	"enqueueMessage": "Mesajı kuyruğa ekle (mevcut görev tamamlandıktan sonra gönderilecek)",
 	"scrollToBottom": "Sohbetin altına kaydır",
 	"scrollToLatestCheckpoint": "Önceki checkpoint'e kaydır",
-	"about": "Zoo Code, düzenleyicinizdeki bütün bir yapay zeka geliştirme ekibidir.",
+	"about": "Vin Code, düzenleyicinizdeki bütün bir yapay zeka geliştirme ekibidir.",
 	"docs": "Daha fazla bilgi için <DocsLink>belgelerimize</DocsLink> göz atın.",
 	"onboarding": "Bu çalışma alanındaki görev listeniz boş.",
 	"rooTips": {
@@ -171,7 +171,7 @@
 			"500": "Sağlayıcı sunucu hatası. Sağlayıcı tarafında bir sorun var, isteğinizde sorun yok.",
 			"docs": "Belgeler",
 			"goToSettings": "Ayarlar",
-			"unknown": "Bilinmeyen API hatası. Lütfen Zoo Code desteğiyle iletişime geç.",
+			"unknown": "Bilinmeyen API hatası. Lütfen Vin Code desteğiyle iletişime geç.",
 			"connection": "Bağlantı hatası. Çalışan bir internet bağlantınız olduğundan emin olun.",
 			"claudeCodeNotAuthenticated": "Claude Code'u kullanmak için oturum açmanız gerekiyor. Ayarlar'a gidin ve kimlik doğrulaması yapmak için \"Claude Code'da Oturum Aç\" seçeneğine tıklayın."
 		}
@@ -350,12 +350,12 @@
 		"timerPrefix": "Otomatik onay etkinleştirildi. {{seconds}}s içinde seçim yapılıyor…"
 	},
 	"announcement": {
-		"title": "Zoo Code {{version}} yayınlandı",
-		"support": "Lütfen <githubLink>GitHub</githubLink>'da bize yıldız vererek Zoo Code'u destekle.",
+		"title": "Vin Code {{version}} yayınlandı",
+		"support": "Lütfen <githubLink>GitHub</githubLink>'da bize yıldız vererek Vin Code'u destekle.",
 		"release": {
-			"heading": "Zoo Code v3.90.0'daki yenilikler",
-			"highlight1": "✨ Sağlayıcılar ve modeller: GitHub Copilot artık bir sağlayıcı: oturum aç, Zoo Code Copilot modellerini yükler. IO Intelligence kendi API anahtarı olan bir sağlayıcıdır. Gemini 4 Argon, Gemini ve Vertex'tedir. GPT-6 Luna, OpenCode Go'dadır. Gemini 4 Argon ve GPT-6 Luna Zoo Gateway'de de vardır.",
-			"highlight2": "🧭 Araç yürütme: Aynı araç çağrısını yinelemek bir uyarı verir, sonra Zoo Code bu döngüyü durdurur. attempt_completion kapatmak artık bir görevi bitiremez halde bırakmaz. Kuyruktaki mesajlar, doğrudan gönderdiğin komutlarla aynı komut koruması kontrollerinden geçer.",
+			"heading": "Vin Code v3.90.0'daki yenilikler",
+			"highlight1": "✨ Sağlayıcılar ve modeller: GitHub Copilot artık bir sağlayıcı: oturum aç, Vin Code Copilot modellerini yükler. IO Intelligence kendi API anahtarı olan bir sağlayıcıdır. Gemini 4 Argon, Gemini ve Vertex'tedir. GPT-6 Luna, OpenCode Go'dadır. Gemini 4 Argon ve GPT-6 Luna Zoo Gateway'de de vardır.",
+			"highlight2": "🧭 Araç yürütme: Aynı araç çağrısını yinelemek bir uyarı verir, sonra Vin Code bu döngüyü durdurur. attempt_completion kapatmak artık bir görevi bitiremez halde bırakmaz. Kuyruktaki mesajlar, doğrudan gönderdiğin komutlarla aynı komut koruması kontrollerinden geçer.",
 			"highlight3": "⚡ Akıl yürütme ve akış: Anthropic adaptive thinking sohbette görünür ve thinking token'lar sayılır. R1 anahtarı llama.cpp, Ollama ve LM Studio akıl yürütmesini tutar. Codex, gördüğün özete ek olarak şifreli akıl yürütmeyi saklar. VS Code dil modeli akışları, akış başarısız olunca guarded recovery kullanır."
 		},
 		"cloudAgents": {
@@ -380,7 +380,7 @@
 	"profileViolationWarning": "Geçerli profil kuruluşunuzun ayarlarıyla uyumlu değil",
 	"shellIntegration": {
 		"title": "Komut Çalıştırma Uyarısı",
-		"description": "Komutunuz VSCode terminal kabuk entegrasyonu olmadan çalıştırılıyor. Bu uyarıyı gizlemek için <settingsLink>Zoo Code ayarları</settingsLink>'nın <strong>Terminal</strong> bölümünden kabuk entegrasyonunu devre dışı bırakabilir veya aşağıdaki bağlantıyı kullanarak VSCode terminal entegrasyonu sorunlarını giderebilirsiniz.",
+		"description": "Komutunuz VSCode terminal kabuk entegrasyonu olmadan çalıştırılıyor. Bu uyarıyı gizlemek için <settingsLink>Vin Code ayarları</settingsLink>'nın <strong>Terminal</strong> bölümünden kabuk entegrasyonunu devre dışı bırakabilir veya aşağıdaki bağlantıyı kullanarak VSCode terminal entegrasyonu sorunlarını giderebilirsiniz.",
 		"troubleshooting": "Kabuk entegrasyonu belgelerini görmek için buraya tıklayın."
 	},
 	"ask": {

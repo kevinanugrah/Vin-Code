@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Contribuer à Zoo Code
+# Contribuer à Vin Code
 
-Zoo Code est un projet communautaire. Chaque contribution compte pour nous. Nous suivons l'approche [d'abord une issue](#issue-first-approach). Chaque [Pull Request (PR)](#submitting-a-pull-request) doit donc être liée à une issue GitHub. Lis ce guide avec attention.
+Vin Code est un projet communautaire. Chaque contribution compte pour nous. Nous suivons l'approche [d'abord une issue](#issue-first-approach). Chaque [Pull Request (PR)](#submitting-a-pull-request) doit donc être liée à une issue GitHub. Lis ce guide avec attention.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Notre feuille de route montre la direction du projet. Aligne tes contributions s
 ### La fiabilité d'abord
 
 - Rends l'édition par diff et l'exécution de commandes fiables à chaque fois.
-- Supprime les problèmes qui empêchent les gens d'utiliser Zoo Code chaque jour.
-- Fais fonctionner Zoo Code dans toutes les langues et sur toutes les plateformes.
+- Supprime les problèmes qui empêchent les gens d'utiliser Vin Code chaque jour.
+- Fais fonctionner Vin Code dans toutes les langues et sur toutes les plateformes.
 - Ajoute la prise en charge de plus de fournisseurs et de modèles d'IA.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Dans tes PRs, indique quels domaines le changement aide à améliorer.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Rejoins la communauté Zoo Code
+### 3. Rejoins la communauté Vin Code
 
 - **Discord :** Rejoins notre [Discord](https://discord.gg/VxfP4Vx3gX).
 - **Reddit :** Rejoins notre [Reddit](https://www.reddit.com/r/ZooCode/).
@@ -109,7 +109,7 @@ Chaque contribution commence par une issue GitHub. Utilise nos modèles courts.
 ### Choisir sur quoi travailler
 
 - Consulte la [page GitHub Issues](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- Pour la documentation, va sur [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- Pour la documentation, va sur [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Chaque contribution commence par une issue GitHub. Utilise nos modèles courts.
 - Crée un nouveau signalement avec le [modèle "Bug Report"](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) et ces informations :
     - Des étapes de reproduction claires et numérotées
     - Le résultat attendu et le résultat réel
-    - La version de Zoo Code (obligatoire)
+    - La version de Vin Code (obligatoire)
     - Le fournisseur d'API et le modèle, s'ils sont pertinents
 - **Problèmes de sécurité** : Signale-les en privé avec les [avis de sécurité](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -258,4 +258,4 @@ Ces règles sont des conseils d'écriture. Les réviseurs ne vérifient pas la c
 
 ## Aspects juridiques
 
-En contribuant, tu acceptes que tes contributions utilisent la licence Apache 2.0. C'est la licence de Zoo Code.
+En contribuant, tu acceptes que tes contributions utilisent la licence Apache 2.0. C'est la licence de Vin Code.

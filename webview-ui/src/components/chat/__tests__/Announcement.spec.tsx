@@ -32,17 +32,17 @@ vi.mock("@src/i18n/TranslationContext", () => ({
 	useAppTranslation: () => ({
 		t: (key: string, options?: { version?: string }) => {
 			const translations: Record<string, string> = {
-				"chat:announcement.release.heading": "What is new in Zoo Code v3.90.0",
+				"chat:announcement.release.heading": "What is new in Vin Code v3.90.0",
 				"chat:announcement.release.highlight1":
-					"✨ Providers and models: GitHub Copilot is now a provider: sign in and Zoo Code loads your Copilot models. IO Intelligence is a provider with its own API key. Gemini 4 Argon is on Gemini and Vertex. GPT-6 Luna is on OpenCode Go. Gemini 4 Argon and GPT-6 Luna are on Zoo Gateway as well.",
+					"✨ Providers and models: GitHub Copilot is now a provider: sign in and Vin Code loads your Copilot models. IO Intelligence is a provider with its own API key. Gemini 4 Argon is on Gemini and Vertex. GPT-6 Luna is on OpenCode Go. Gemini 4 Argon and GPT-6 Luna are on Zoo Gateway as well.",
 				"chat:announcement.release.highlight2":
-					"🧭 Tool execution: Repeating the same tool call gets a warning, then Zoo Code stops that loop. Disabling attempt_completion no longer leaves a task unable to finish. Queued messages run the same command-protection checks as commands you send directly.",
+					"🧭 Tool execution: Repeating the same tool call gets a warning, then Vin Code stops that loop. Disabling attempt_completion no longer leaves a task unable to finish. Queued messages run the same command-protection checks as commands you send directly.",
 				"chat:announcement.release.highlight3":
 					"⚡ Reasoning and streaming: Anthropic adaptive thinking shows in chat, and thinking tokens are counted. The R1 toggle keeps reasoning from llama.cpp, Ollama, and LM Studio. Codex keeps encrypted reasoning with the summary you see. VS Code language-model streams use guarded recovery when a stream fails.",
 			}
 
 			if (key === "chat:announcement.title") {
-				return `Zoo Code ${options?.version ?? ""} Released`
+				return `Vin Code ${options?.version ?? ""} Released`
 			}
 
 			return translations[key] ?? key
@@ -54,16 +54,16 @@ describe("Announcement", () => {
 	it("renders the announcement title and highlights", () => {
 		render(<Announcement hideAnnouncement={vi.fn()} />)
 
-		expect(screen.getByText("Zoo Code 3.90.0 Released")).toBeInTheDocument()
-		expect(screen.getByText("What is new in Zoo Code v3.90.0")).toBeInTheDocument()
+		expect(screen.getByText("Vin Code 3.90.0 Released")).toBeInTheDocument()
+		expect(screen.getByText("What is new in Vin Code v3.90.0")).toBeInTheDocument()
 		expect(
 			screen.getByText(
-				"✨ Providers and models: GitHub Copilot is now a provider: sign in and Zoo Code loads your Copilot models. IO Intelligence is a provider with its own API key. Gemini 4 Argon is on Gemini and Vertex. GPT-6 Luna is on OpenCode Go. Gemini 4 Argon and GPT-6 Luna are on Zoo Gateway as well.",
+				"✨ Providers and models: GitHub Copilot is now a provider: sign in and Vin Code loads your Copilot models. IO Intelligence is a provider with its own API key. Gemini 4 Argon is on Gemini and Vertex. GPT-6 Luna is on OpenCode Go. Gemini 4 Argon and GPT-6 Luna are on Zoo Gateway as well.",
 			),
 		).toBeInTheDocument()
 		expect(
 			screen.getByText(
-				"🧭 Tool execution: Repeating the same tool call gets a warning, then Zoo Code stops that loop. Disabling attempt_completion no longer leaves a task unable to finish. Queued messages run the same command-protection checks as commands you send directly.",
+				"🧭 Tool execution: Repeating the same tool call gets a warning, then Vin Code stops that loop. Disabling attempt_completion no longer leaves a task unable to finish. Queued messages run the same command-protection checks as commands you send directly.",
 			),
 		).toBeInTheDocument()
 		expect(
@@ -79,7 +79,7 @@ describe("Announcement", () => {
 		expect(screen.getAllByRole("listitem")).toHaveLength(3)
 	})
 
-	it("links support users to the Zoo Code GitHub repository", () => {
+	it("links support users to the Vin Code GitHub repository", () => {
 		render(<Announcement hideAnnouncement={vi.fn()} />)
 
 		expect(screen.getByRole("link", { name: "GitHub" })).toHaveAttribute("href", EXTERNAL_LINKS.GITHUB_REPO)
