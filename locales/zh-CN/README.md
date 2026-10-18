@@ -9,14 +9,14 @@
           <em>快速获取帮助 → <a href="https://discord.gg/VxfP4Vx3gX">加入 Discord</a> • 偏好异步？→ <a href="https://www.reddit.com/r/ZooCode/">加入 r/ZooCode</a></em>
         </p>
 
-        # Zoo Code
+        # Vin Code
 
         > 你的 AI 驱动开发团队，就在你的编辑器里
 
-        ## 我们是 Zoo Code
+        ## 我们是 Vin Code
 
 > 在 Roo 团队停止 Roo Code 的积极开发、转而专注于 [Roomote](https://roomote.dev/)
-> 之后，Zoo Code 将继续开发这个项目。感谢 Roo 团队所构建的一切。
+> 之后，Vin Code 将继续开发这个项目。感谢 Roo 团队所构建的一切。
 >
 > 核心团队由此前曾为 Roo 做出贡献、并且非常在乎这个插件的开发者组成。我们
 > 会继续更新模型、修复 bug，并发布新功能，也计划认真倾听让这个插件如此特
@@ -25,15 +25,15 @@
 > [Reddit](https://www.reddit.com/r/ZooCode)，或者
 > [创建 PR 或 issue](https://github.com/Zoo-Code-Org/Zoo-Code)。
 >
-> _-Zoo Code Team_
+> _-Vin Code Team_
 
-## 从 Roo Code 迁移到 Zoo Code
+## 从 Roo Code 迁移到 Vin Code
 
-你可以在 [Roo→Zoo 迁移指南](https://docs.zoocode.dev/roo-to-zoo-migration) 中找到从 Roo Code 迁移到 Zoo Code 的快速说明。我们希望在大家迁移过程中尽可能提供帮助，这也是我们设立 [Reddit](https://www.reddit.com/r/ZooCode) 和 [Discord](https://discord.gg/VxfP4Vx3gX) 社区的原因。如果你遇到问题或有任何疑问，欢迎加入后直接提问。
+你可以在 [Roo→Zoo 迁移指南](https://docs.zoocode.dev/roo-to-zoo-migration) 中找到从 Roo Code 迁移到 Vin Code 的快速说明。我们希望在大家迁移过程中尽可能提供帮助，这也是我们设立 [Reddit](https://www.reddit.com/r/ZooCode) 和 [Discord](https://discord.gg/VxfP4Vx3gX) 社区的原因。如果你遇到问题或有任何疑问，欢迎加入后直接提问。
 
-## Zoo Code 在 Roo Code 之后新增的功能
+## Vin Code 在 Roo Code 之后新增的功能
 
-Zoo Code 基于 Roo Code 打下的基础持续扩展，新增了：
+Vin Code 基于 Roo Code 打下的基础持续扩展，新增了：
 
 - **Semble 代码库智能** — 快速、按需的语义代码搜索，可自动设置，无需单独的索引流程。
 - **更强大的 Orchestrator 工作流** — 更安全的任务委派、并行任务协调、可靠的父子任务恢复，以及更完善的子任务与提供商配置隔离。
@@ -45,11 +45,11 @@ Zoo Code 基于 Roo Code 打下的基础持续扩展，新增了：
 
 ## v3.90.0 新增内容
 
-- ✨ **Provider 与模型：** GitHub Copilot 现在是一个 provider：登录后，Zoo Code 会加载您的 Copilot 模型。IO Intelligence 是使用自己 API 密钥的 provider。Gemini 4 Argon 在 Gemini 和 Vertex 上。GPT-6 Luna 在 OpenCode Go 上。Gemini 4 Argon 和 GPT-6 Luna 也在 Zoo Gateway 上。
-- 🧭 **工具执行：** 重复同一次工具调用会先警告，然后 Zoo Code 停止这个循环。关闭 `attempt_completion` 不再让任务无法结束。排队消息会经过与直接发送的命令相同的命令保护检查。
+- ✨ **Provider 与模型：** GitHub Copilot 现在是一个 provider：登录后，Vin Code 会加载您的 Copilot 模型。IO Intelligence 是使用自己 API 密钥的 provider。Gemini 4 Argon 在 Gemini 和 Vertex 上。GPT-6 Luna 在 OpenCode Go 上。Gemini 4 Argon 和 GPT-6 Luna 也在 Zoo Gateway 上。
+- 🧭 **工具执行：** 重复同一次工具调用会先警告，然后 Vin Code 停止这个循环。关闭 `attempt_completion` 不再让任务无法结束。排队消息会经过与直接发送的命令相同的命令保护检查。
 - ⚡ **推理与流式输出：** Anthropic adaptive thinking 会显示在聊天中，并统计 thinking tokens。R1 开关会保留 llama.cpp、Ollama 和 LM Studio 的推理。Codex 会把加密推理和您看到的摘要一起保留。VS Code 语言模型流在流失败时使用 guarded recovery。
 
-## Zoo Code 能为您做什么？
+## Vin Code 能为您做什么？
 
 - 从自然语言描述生成代码
 - 使用模式进行调整：代码、架构师、提问、调试和自定义模式
@@ -61,7 +61,7 @@ Zoo Code 基于 Roo Code 打下的基础持续扩展，新增了：
 
 ## 模式
 
-Zoo Code 适应您的工作方式，而不是相反：
+Vin Code 适应您的工作方式，而不是相反：
 
 - 代码模式：日常编码、编辑和文件操作
 - 架构师模式：规划系统、规范和迁移
@@ -73,7 +73,7 @@ Zoo Code 适应您的工作方式，而不是相反：
 
 ## 资源
 
-- **[文档](https://docs.zoocode.dev):** 安装、配置和掌握 Zoo Code 的官方指南。
+- **[文档](https://docs.zoocode.dev):** 安装、配置和掌握 Vin Code 的官方指南。
 - **[Discord 服务器](https://discord.gg/VxfP4Vx3gX):** 加入社区以获得实时帮助和讨论。
 - **[Reddit 社区](https://www.reddit.com/r/ZooCode):** 分享您的经验，看看别人在构建什么。
 - **[GitHub 问题](https://github.com/Zoo-Code-Org/Zoo-Code/issues):** 报告错误并跟踪开发。
@@ -97,13 +97,13 @@ pnpm install
 
 3. **运行扩展程序**:
 
-有几种方法可以运行 Zoo Code 扩展程序：
+有几种方法可以运行 Vin Code 扩展程序：
 
 ### 开发模式（F5）
 
 对于积极开发，请使用 VSCode 的内置调试功能：
 
-在 VSCode 中按 `F5`（或转到 **Run** → **Start Debugging**）。这将在运行 Zoo Code 扩展程序的新 VSCode 窗口中打开。
+在 VSCode 中按 `F5`（或转到 **Run** → **Start Debugging**）。这将在运行 Vin Code 扩展程序的新 VSCode 窗口中打开。
 
 - 对 webview 的更改将立即显示。
 - 对核心扩展程序的更改也会自动热重载。
@@ -151,7 +151,7 @@ pnpm install:vsix [-y] [--editor=<command>]
 
 ## 免责声明
 
-**请注意**，Zoo Code **不**对与 Zoo Code 相关的任何代码、模型或其他工具、任何相关的第三方工具或任何由此产生的输出作出任何陈述或保证。您承担使用任何此类工具或输出的**所有风险**；此类工具均按**“原样”**和**“可用”**的基础提供。此类风险可能包括但不限于知识产权侵权、网络漏洞或攻击、偏见、不准确、错误、缺陷、病毒、停机、财产损失或损害和/或人身伤害。您对自己使用任何此类工具或输出负全部责任（包括但不限于其合法性、适当性和结果）。
+**请注意**，Vin Code **不**对与 Vin Code 相关的任何代码、模型或其他工具、任何相关的第三方工具或任何由此产生的输出作出任何陈述或保证。您承担使用任何此类工具或输出的**所有风险**；此类工具均按**“原样”**和**“可用”**的基础提供。此类风险可能包括但不限于知识产权侵权、网络漏洞或攻击、偏见、不准确、错误、缺陷、病毒、停机、财产损失或损害和/或人身伤害。您对自己使用任何此类工具或输出负全部责任（包括但不限于其合法性、适当性和结果）。
 
 ---
 
@@ -163,8 +163,8 @@ pnpm install:vsix [-y] [--editor=<command>]
 
 ## 许可证
 
-[Apache 2.0 © 2025 Zoo Code Org](../../LICENSE)
+[Apache 2.0 © 2025 Vin Code Org](../../LICENSE)
 
 ---
 
-**尽情享受 Zoo Code！** 无论你是让它保持短绳控制，还是让它自主探索，我们都迫不及待想看看你会构建什么。如果你有问题或功能想法，请提交一个 [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues) 或发起一个 [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions)。祝你编码愉快！
+**尽情享受 Vin Code！** 无论你是让它保持短绳控制，还是让它自主探索，我们都迫不及待想看看你会构建什么。如果你有问题或功能想法，请提交一个 [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues) 或发起一个 [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions)。祝你编码愉快！

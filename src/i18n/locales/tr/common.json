@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "Düzenleyicinizde tam bir AI geliştirici ekibi."
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "ZooCode ayarları otomatik olarak içe aktarılamadı: {{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "{{domain}} kaynağından içe aktarılacak Roo Code görev geçmişi bulunamadı.",
-			"alreadyImported_one": "{{count}} Roo Code görev geçmişinin tamamı zaten Zoo Code'a aktarılmış.",
-			"alreadyImported_other": "{{count}} Roo Code görev geçmişinin tamamı zaten Zoo Code'a aktarılmış."
+			"alreadyImported_one": "{{count}} Roo Code görev geçmişinin tamamı zaten Vin Code'a aktarılmış.",
+			"alreadyImported_other": "{{count}} Roo Code görev geçmişinin tamamı zaten Vin Code'a aktarılmış."
 		}
 	},
 	"info": {
@@ -179,8 +179,8 @@
 			"signInUnavailable": "Roo Code Cloud girişi şu anda kullanılamıyor. Devam etmek için farklı bir sağlayıcı yapılandırın."
 		},
 		"rooHistoryImport": {
-			"success_one": "{{count}} Roo Code görev geçmişi Zoo Code'a aktarıldı.",
-			"success_other": "{{count}} Roo Code görev geçmişi Zoo Code'a aktarıldı."
+			"success_one": "{{count}} Roo Code görev geçmişi Vin Code'a aktarıldı.",
+			"success_other": "{{count}} Roo Code görev geçmişi Vin Code'a aktarıldı."
 		}
 	},
 	"answers": {
@@ -274,18 +274,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: Geçersiz kimlik doğrulama token'ı alındı.",
-			"token_verification_failed": "Zoo Code: Token doğrulaması başarısız oldu.",
-			"invalid_token": "Zoo Code: Geçersiz token.",
-			"could_not_verify_token": "Zoo Code: Token doğrulanamadı.",
-			"session_expired": "Zoo Code oturumunun süresi doldu. Zoo Gateway'i kullanmaya devam etmek için lütfen tekrar giriş yapın.",
+			"invalid_token_received": "Vin Code: Geçersiz kimlik doğrulama token'ı alındı.",
+			"token_verification_failed": "Vin Code: Token doğrulaması başarısız oldu.",
+			"invalid_token": "Vin Code: Geçersiz token.",
+			"could_not_verify_token": "Vin Code: Token doğrulanamadı.",
+			"session_expired": "Vin Code oturumunun süresi doldu. Zoo Gateway'i kullanmaya devam etmek için lütfen tekrar giriş yapın.",
 			"out_of_credits": "Zoo Gateway: yetersiz kredi. Devam etmek için kredi ekleyin.",
 			"account_unavailable": "Zoo Gateway: hesabınız şu anda kullanılamıyor. Lütfen destek ile iletişime geçin.",
 			"budget_exceeded": "Zoo Gateway: kullanım bütçesine ulaşıldı. Sıfırlanmasını bekleyin veya kredi ekleyin."
 		},
 		"info": {
-			"connected": "Zoo Code: Başarıyla bağlandı! Artık Zoo Code'u AI sağlayıcısı olarak kullanabilirsin.",
-			"disconnected": "Zoo Code: Başarıyla bağlantı kesildi."
+			"connected": "Vin Code: Başarıyla bağlandı! Artık Vin Code'u AI sağlayıcısı olarak kullanabilirsin.",
+			"disconnected": "Vin Code: Başarıyla bağlantı kesildi."
 		},
 		"buttons": {
 			"sign_in": "Giriş Yap",
@@ -294,9 +294,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Zoo Code ile açıkla",
-		"fix": "Zoo Code ile düzelt",
-		"improve": "Zoo Code ile iyileştir",
-		"addToContext": "Zoo Code'a ekle"
+		"explain": "Vin Code ile açıkla",
+		"fix": "Vin Code ile düzelt",
+		"improve": "Vin Code ile iyileştir",
+		"addToContext": "Vin Code'a ekle"
 	}
 }

@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Đóng góp cho Zoo Code
+# Đóng góp cho Vin Code
 
-Zoo Code là dự án cộng đồng. Chúng mình trân trọng mọi đóng góp. Chúng mình làm việc theo cách [tạo Issue trước](#issue-first-approach). Mỗi [Pull Request (PR)](#submitting-a-pull-request) phải liên kết đến một GitHub Issue. Hãy đọc kỹ hướng dẫn này.
+Vin Code là dự án cộng đồng. Chúng mình trân trọng mọi đóng góp. Chúng mình làm việc theo cách [tạo Issue trước](#issue-first-approach). Mỗi [Pull Request (PR)](#submitting-a-pull-request) phải liên kết đến một GitHub Issue. Hãy đọc kỹ hướng dẫn này.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Lộ trình cho biết hướng phát triển của dự án. Hãy điều chỉ
 ### Ưu tiên độ tin cậy
 
 - Đảm bảo chỉnh sửa bằng diff và chạy lệnh hoạt động tin cậy mỗi lần.
-- Loại bỏ các vấn đề khiến mọi người không thể dùng Zoo Code hằng ngày.
-- Giúp Zoo Code hoạt động với mọi ngôn ngữ, khu vực và nền tảng.
+- Loại bỏ các vấn đề khiến mọi người không thể dùng Vin Code hằng ngày.
+- Giúp Vin Code hoạt động với mọi ngôn ngữ, khu vực và nền tảng.
 - Hỗ trợ thêm các nhà cung cấp AI và mô hình.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Trong PR, hãy nêu thay đổi hỗ trợ những lĩnh vực nào ở trên.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Tham gia cộng đồng Zoo Code
+### 3. Tham gia cộng đồng Vin Code
 
 - **Discord:** Tham gia [Discord](https://discord.gg/VxfP4Vx3gX) của chúng mình.
 - **Reddit:** Tham gia [Reddit](https://www.reddit.com/r/ZooCode/) của chúng mình.
@@ -109,7 +109,7 @@ Mỗi đóng góp bắt đầu bằng một GitHub Issue. Hãy dùng các mẫu 
 ### Chọn việc để làm
 
 - Xem [trang GitHub Issues](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- Với tài liệu, hãy đến [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- Với tài liệu, hãy đến [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Mỗi đóng góp bắt đầu bằng một GitHub Issue. Hãy dùng các mẫu 
 - Tạo báo cáo lỗi mới bằng [mẫu "Bug Report"](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) và thêm:
     - Các bước tái hiện rõ ràng, có đánh số
     - Kết quả mong đợi và kết quả thực tế
-    - Phiên bản Zoo Code (bắt buộc)
+    - Phiên bản Vin Code (bắt buộc)
     - Nhà cung cấp API và mô hình, nếu có liên quan
 - **Vấn đề bảo mật:** Báo riêng qua [security advisories](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -258,4 +258,4 @@ Các quy tắc này là hướng dẫn viết. Người đánh giá không kiể
 
 ## Điều kiện pháp lý
 
-Khi đóng góp, bạn đồng ý rằng đóng góp của mình dùng Giấy phép Apache 2.0. Đây là giấy phép của Zoo Code.
+Khi đóng góp, bạn đồng ý rằng đóng góp của mình dùng Giấy phép Apache 2.0. Đây là giấy phép của Vin Code.

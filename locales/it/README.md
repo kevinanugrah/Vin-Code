@@ -9,13 +9,13 @@
           <em>Hai bisogno di aiuto in fretta → <a href="https://discord.gg/VxfP4Vx3gX">Unisciti a Discord</a> • Preferisci l'asincrono? → <a href="https://www.reddit.com/r/ZooCode/">Unisciti a r/ZooCode</a></em>
         </p>
 
-        # Zoo Code
+        # Vin Code
 
         > Il tuo team di sviluppo con IA, direttamente nel tuo editor
 
-        ## Siamo Zoo Code
+        ## Siamo Vin Code
 
-> Zoo Code continua lo sviluppo di questo progetto dopo che il team di Roo
+> Vin Code continua lo sviluppo di questo progetto dopo che il team di Roo
 > ha interrotto lo sviluppo attivo di Roo Code per concentrarsi su
 > [Roomote](https://roomote.dev/). Grazie al team di Roo per tutto quello
 > che hanno costruito.
@@ -29,15 +29,15 @@
 > [Reddit](https://www.reddit.com/r/ZooCode), oppure
 > [apri una PR o una issue](https://github.com/Zoo-Code-Org/Zoo-Code).
 >
-> _-Zoo Code Team_
+> _-Vin Code Team_
 
-## Migrazione da Roo Code a Zoo Code
+## Migrazione da Roo Code a Vin Code
 
-Puoi trovare una guida rapida per passare da Roo Code a Zoo Code nella [guida alla migrazione Roo→Zoo](https://docs.zoocode.dev/roo-to-zoo-migration). Vogliamo aiutare gli utenti il più possibile durante la transizione, e per questo abbiamo il nostro [Reddit](https://www.reddit.com/r/ZooCode) e il nostro [Discord](https://discord.gg/VxfP4Vx3gX). Se hai problemi o domande, passa pure e chiedi.
+Puoi trovare una guida rapida per passare da Roo Code a Vin Code nella [guida alla migrazione Roo→Zoo](https://docs.zoocode.dev/roo-to-zoo-migration). Vogliamo aiutare gli utenti il più possibile durante la transizione, e per questo abbiamo il nostro [Reddit](https://www.reddit.com/r/ZooCode) e il nostro [Discord](https://discord.gg/VxfP4Vx3gX). Se hai problemi o domande, passa pure e chiedi.
 
-## Cosa ha aggiunto Zoo Code rispetto a Roo Code
+## Cosa ha aggiunto Vin Code rispetto a Roo Code
 
-Zoo Code parte dalle fondamenta create da Roo Code e continua ad ampliarle con:
+Vin Code parte dalle fondamenta create da Roo Code e continua ad ampliarle con:
 
 - **Intelligenza della codebase Semble** — ricerca semantica del codice rapida e on demand, con configurazione automatica e senza un workflow di indicizzazione separato.
 - **Workflow Orchestrator più solidi** — delega più sicura, coordinamento parallelo delle attività, recupero affidabile delle attività principali e secondarie e migliore isolamento tra attività secondarie e profili provider.
@@ -49,11 +49,11 @@ Zoo Code parte dalle fondamenta create da Roo Code e continua ad ampliarle con:
 
 ## Novità in v3.90.0
 
-- ✨ **Provider e modelli:** GitHub Copilot ora è un provider: accedi e Zoo Code carica i tuoi modelli Copilot. IO Intelligence è un provider con la propria chiave API. Gemini 4 Argon è su Gemini e Vertex. GPT-6 Luna è su OpenCode Go. Gemini 4 Argon e GPT-6 Luna sono anche su Zoo Gateway.
-- 🧭 **Esecuzione dei tool:** Ripetere la stessa chiamata di tool mostra un avviso, poi Zoo Code ferma quel ciclo. Disattivare `attempt_completion` non lascia più un'attività incapace di finire. I messaggi in coda eseguono gli stessi controlli di protezione dei comandi dei comandi che invii direttamente.
+- ✨ **Provider e modelli:** GitHub Copilot ora è un provider: accedi e Vin Code carica i tuoi modelli Copilot. IO Intelligence è un provider con la propria chiave API. Gemini 4 Argon è su Gemini e Vertex. GPT-6 Luna è su OpenCode Go. Gemini 4 Argon e GPT-6 Luna sono anche su Zoo Gateway.
+- 🧭 **Esecuzione dei tool:** Ripetere la stessa chiamata di tool mostra un avviso, poi Vin Code ferma quel ciclo. Disattivare `attempt_completion` non lascia più un'attività incapace di finire. I messaggi in coda eseguono gli stessi controlli di protezione dei comandi dei comandi che invii direttamente.
 - ⚡ **Ragionamento e streaming:** Il pensiero adattivo di Anthropic compare in chat e i thinking token vengono contati. L'interruttore R1 conserva il ragionamento di llama.cpp, Ollama e LM Studio. Codex conserva il ragionamento cifrato insieme al riepilogo che vedi. Gli stream del language model di VS Code usano il guarded recovery quando uno stream fallisce.
 
-## Cosa può fare Zoo Code per TE?
+## Cosa può fare Vin Code per TE?
 
 - Generare codice da descrizioni in linguaggio naturale
 - Adattarsi con le Modalità: Codice, Architetto, Chiedi, Debug e Modalità Personalizzate
@@ -65,7 +65,7 @@ Zoo Code parte dalle fondamenta create da Roo Code e continua ad ampliarle con:
 
 ## Modalità
 
-Zoo Code si adatta al tuo modo di lavorare, non il contrario:
+Vin Code si adatta al tuo modo di lavorare, non il contrario:
 
 - Modalità Codice: codifica quotidiana, modifiche e operazioni sui file
 - Modalità Architetto: pianifica sistemi, specifiche e migrazioni
@@ -77,7 +77,7 @@ Scopri di più: [Usare le Modalità](https://docs.zoocode.dev/basic-usage/using-
 
 ## Risorse
 
-- **[Documentazione](https://docs.zoocode.dev):** La guida ufficiale per installare, configurare e padroneggiare Zoo Code.
+- **[Documentazione](https://docs.zoocode.dev):** La guida ufficiale per installare, configurare e padroneggiare Vin Code.
 - **[Server Discord](https://discord.gg/VxfP4Vx3gX):** Unisciti alla community per aiuto e discussioni in tempo reale.
 - **[Comunità Reddit](https://www.reddit.com/r/ZooCode):** Condividi le tue esperienze e guarda cosa stanno costruendo gli altri.
 - **[Problemi GitHub](https://github.com/Zoo-Code-Org/Zoo-Code/issues):** Segnala bug e tieni traccia dello sviluppo.
@@ -101,13 +101,13 @@ pnpm install
 
 3. **Esegui l'estensione**:
 
-Ci sono diversi modi per eseguire l'estensione Zoo Code:
+Ci sono diversi modi per eseguire l'estensione Vin Code:
 
 ### Modalità di sviluppo (F5)
 
 Per lo sviluppo attivo, usa il debug integrato di VSCode:
 
-Premi `F5` (o vai su **Esegui** → **Avvia debug**) in VSCode. Si aprirà una nuova finestra di VSCode con l'estensione Zoo Code in esecuzione.
+Premi `F5` (o vai su **Esegui** → **Avvia debug**) in VSCode. Si aprirà una nuova finestra di VSCode con l'estensione Vin Code in esecuzione.
 
 - Le modifiche alla webview appariranno immediatamente.
 - Anche le modifiche all'estensione principale verranno ricaricate automaticamente a caldo.
@@ -155,7 +155,7 @@ Usiamo [changesets](https://github.com/changesets/changesets) per il versioning 
 
 ## Dichiarazione di non responsabilità
 
-**Si prega di notare** che Zoo Code **non** rilascia alcuna dichiarazione o garanzia in merito a qualsiasi codice, modello o altro strumento fornito o reso disponibile in connessione con Zoo Code, qualsiasi strumento di terze parti associato o qualsiasi output risultante. L'utente si assume **tutti i rischi** associati all'uso di tali strumenti o output; tali strumenti sono forniti **"COSÌ COME SONO"** e **"COME DISPONIBILI"**. Tali rischi possono includere, a titolo esemplificativo, violazione della proprietà intellettuale, vulnerabilità o attacchi informatici, parzialità, imprecisioni, errori, difetti, virus, tempi di inattività, perdita o danneggiamento di proprietà e/o lesioni personali. L'utente è l'unico responsabile dell'uso di tali strumenti o output (inclusi, a titolo esemplificativo, la loro legalità, adeguatezza e risultati).
+**Si prega di notare** che Vin Code **non** rilascia alcuna dichiarazione o garanzia in merito a qualsiasi codice, modello o altro strumento fornito o reso disponibile in connessione con Vin Code, qualsiasi strumento di terze parti associato o qualsiasi output risultante. L'utente si assume **tutti i rischi** associati all'uso di tali strumenti o output; tali strumenti sono forniti **"COSÌ COME SONO"** e **"COME DISPONIBILI"**. Tali rischi possono includere, a titolo esemplificativo, violazione della proprietà intellettuale, vulnerabilità o attacchi informatici, parzialità, imprecisioni, errori, difetti, virus, tempi di inattività, perdita o danneggiamento di proprietà e/o lesioni personali. L'utente è l'unico responsabile dell'uso di tali strumenti o output (inclusi, a titolo esemplificativo, la loro legalità, adeguatezza e risultati).
 
 ---
 
@@ -167,8 +167,8 @@ Adoriamo i contributi della community! Inizia leggendo il nostro [CONTRIBUTING.m
 
 ## Licenza
 
-[Apache 2.0 © 2025 Zoo Code Org](../../LICENSE)
+[Apache 2.0 © 2025 Vin Code Org](../../LICENSE)
 
 ---
 
-**Divertiti con Zoo Code!** Che tu lo tenga al guinzaglio corto o lo lasci muoversi in autonomia, non vediamo l'ora di vedere cosa costruirai. Se hai domande o idee per nuove funzionalità, apri una [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues) o avvia una [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions). Buon coding!
+**Divertiti con Vin Code!** Che tu lo tenga al guinzaglio corto o lo lasci muoversi in autonomia, non vediamo l'ora di vedere cosa costruirai. Se hai domande o idee per nuove funzionalità, apri una [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues) o avvia una [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions). Buon coding!

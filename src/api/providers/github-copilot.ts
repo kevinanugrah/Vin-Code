@@ -43,7 +43,7 @@ export class GitHubCopilotHandler extends VsCodeLmHandler {
 
 	protected override getCompletionRequestOptions(client: vscode.LanguageModelChat) {
 		return {
-			justification: `Zoo Code would like to use '${client.name}' from '${client.vendor}', Click 'Allow' to proceed.`,
+			justification: `Vin Code would like to use '${client.name}' from '${client.vendor}', Click 'Allow' to proceed.`,
 		}
 	}
 

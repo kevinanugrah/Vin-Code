@@ -9,7 +9,7 @@ for (const theme of visualThemes) {
 		await applyVisualTheme(page, theme)
 
 		const code = component.getByTestId("code-block").locator("code")
-		await expect(code).toContainText("Hello, Zoo Code", { timeout: 20_000 })
+		await expect(code).toContainText("Hello, Vin Code", { timeout: 20_000 })
 		const codeScroller = code.locator("xpath=../..")
 		await expect.poll(() => codeScroller.evaluate((element) => element.scrollTop)).toBe(0)
 		const codeBackground = component.getByTestId("code-block").locator("pre")

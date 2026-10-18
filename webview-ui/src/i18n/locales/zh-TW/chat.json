@@ -1,5 +1,5 @@
 {
-	"greeting": "歡迎使用 Zoo Code！",
+	"greeting": "歡迎使用 Vin Code！",
 	"task": {
 		"title": "工作",
 		"expand": "展開工作",
@@ -194,7 +194,7 @@
 			"docs": "說明文件",
 			"goToSettings": "設定",
 			"connection": "連線錯誤。請確保您有可用的網際網路連線。",
-			"unknown": "未知 API 錯誤。請聯絡 Zoo Code 技術支援。",
+			"unknown": "未知 API 錯誤。請聯絡 Vin Code 技術支援。",
 			"claudeCodeNotAuthenticated": "您需要登入才能使用 Claude Code。前往設定並點選「登入 Claude Code」以進行驗證。"
 		}
 	},
@@ -371,12 +371,12 @@
 		"triggerLabelAll": "BRRR"
 	},
 	"announcement": {
-		"title": "Zoo Code {{version}} 已發布",
-		"support": "請在 <githubLink>GitHub</githubLink> 上為 Zoo Code 加星支持我們。",
+		"title": "Vin Code {{version}} 已發布",
+		"support": "請在 <githubLink>GitHub</githubLink> 上為 Vin Code 加星支持我們。",
 		"release": {
-			"heading": "Zoo Code v3.90.0 新功能",
-			"highlight1": "✨ Provider 與模型：GitHub Copilot 現在是一個 provider：登入後，Zoo Code 會載入您的 Copilot 模型。IO Intelligence 是使用自己 API 金鑰的 provider。Gemini 4 Argon 在 Gemini 和 Vertex 上。GPT-6 Luna 在 OpenCode Go 上。Gemini 4 Argon 和 GPT-6 Luna 也在 Zoo Gateway 上。",
-			"highlight2": "🧭 工具執行：重複同一次工具呼叫會先警告，然後 Zoo Code 停止這個迴圈。關閉 attempt_completion 不再讓工作無法結束。佇列訊息會經過與直接送出的命令相同的命令保護檢查。",
+			"heading": "Vin Code v3.90.0 新功能",
+			"highlight1": "✨ Provider 與模型：GitHub Copilot 現在是一個 provider：登入後，Vin Code 會載入您的 Copilot 模型。IO Intelligence 是使用自己 API 金鑰的 provider。Gemini 4 Argon 在 Gemini 和 Vertex 上。GPT-6 Luna 在 OpenCode Go 上。Gemini 4 Argon 和 GPT-6 Luna 也在 Zoo Gateway 上。",
+			"highlight2": "🧭 工具執行：重複同一次工具呼叫會先警告，然後 Vin Code 停止這個迴圈。關閉 attempt_completion 不再讓工作無法結束。佇列訊息會經過與直接送出的命令相同的命令保護檢查。",
 			"highlight3": "⚡ 推理與串流：Anthropic adaptive thinking 會顯示在聊天中，並統計 thinking tokens。R1 開關會保留 llama.cpp、Ollama 和 LM Studio 的推理。Codex 會把加密推理和您看到的摘要一起保留。VS Code 語言模型串流在串流失敗時使用 guarded recovery。"
 		},
 		"cloudAgents": {
@@ -409,7 +409,7 @@
 	"profileViolationWarning": "目前設定檔與您的組織設定不相容",
 	"shellIntegration": {
 		"title": "命令執行警告",
-		"description": "命令正在沒有 VS Code 終端機 Shell 整合的情況下執行。若要隱藏此警告，可在 <settingsLink>Zoo Code 設定</settingsLink> 的 <strong>終端機</strong> 區塊中停用 Shell 整合，或使用下方連結排解 VS Code 終端機整合問題。",
+		"description": "命令正在沒有 VS Code 終端機 Shell 整合的情況下執行。若要隱藏此警告，可在 <settingsLink>Vin Code 設定</settingsLink> 的 <strong>終端機</strong> 區塊中停用 Shell 整合，或使用下方連結排解 VS Code 終端機整合問題。",
 		"troubleshooting": "點選此處查看 Shell 整合說明文件。"
 	},
 	"ask": {

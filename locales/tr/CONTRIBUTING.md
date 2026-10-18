@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Zoo Code'a katkıda bulunma
+# Vin Code'a katkıda bulunma
 
-Zoo Code bir topluluk projesidir. Her katkıya değer veriyoruz. [Önce Issue](#issue-first-approach) yaklaşımıyla çalışıyoruz. Her [Pull Request (PR)](#submitting-a-pull-request) bir GitHub Issue'ya bağlantı vermelidir. Bu rehberi dikkatle oku.
+Vin Code bir topluluk projesidir. Her katkıya değer veriyoruz. [Önce Issue](#issue-first-approach) yaklaşımıyla çalışıyoruz. Her [Pull Request (PR)](#submitting-a-pull-request) bir GitHub Issue'ya bağlantı vermelidir. Bu rehberi dikkatle oku.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Yol haritamız projenin yönünü gösterir. Katkılarını bu hedeflerle uyumlu
 ### Önce güvenilirlik
 
 - diff düzenlemesinin ve komut çalıştırmanın her seferinde güvenilir olmasını sağla.
-- İnsanların Zoo Code'u her gün kullanmasını engelleyen sorunları gider.
-- Zoo Code'un tüm dil ve bölge ayarlarında ve platformlarda çalışmasını sağla.
+- İnsanların Vin Code'u her gün kullanmasını engelleyen sorunları gider.
+- Vin Code'un tüm dil ve bölge ayarlarında ve platformlarda çalışmasını sağla.
 - Daha fazla yapay zekâ sağlayıcısını ve modelini destekle.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ PR'larında değişikliğin bu alanlardan hangilerini desteklediğini belirt.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Zoo Code topluluğuna katıl
+### 3. Vin Code topluluğuna katıl
 
 - **Discord:** [Discord](https://discord.gg/VxfP4Vx3gX) topluluğumuza katıl.
 - **Reddit:** [Reddit](https://www.reddit.com/r/ZooCode/) topluluğumuza katıl.
@@ -109,7 +109,7 @@ Her katkı bir GitHub Issue ile başlar. Kısa şablonlarımızı kullan.
 ### Ne üzerinde çalışacağına karar verme
 
 - [GitHub Issues sayfasına](https://github.com/Zoo-Code-Org/Zoo-Code/issues) bak.
-- Belgeler için [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs) sayfasına git.
+- Belgeler için [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs) sayfasına git.
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Her katkı bir GitHub Issue ile başlar. Kısa şablonlarımızı kullan.
 - ["Bug Report" şablonuyla](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) yeni bir hata bildir ve şunları ekle:
     - Açık, numaralı yeniden üretme adımları
     - Beklenen sonuç ve gerçek sonuç
-    - Zoo Code sürümü (zorunlu)
+    - Vin Code sürümü (zorunlu)
     - İlgiliyse API sağlayıcısı ve model
 - **Güvenlik sorunları:** Bunları [security advisories](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new) ile özel olarak bildir.
 
@@ -258,4 +258,4 @@ Bu kurallar yazım rehberidir. İnceleyenler resmî ASD-STE100 uyumunu kontrol e
 
 ## Yasal koşullar
 
-Katkıda bulunduğunda katkılarının Apache 2.0 Lisansı kapsamında olmasını kabul edersin. Bu, Zoo Code'un lisansıdır.
+Katkıda bulunduğunda katkılarının Apache 2.0 Lisansı kapsamında olmasını kabul edersin. Bu, Vin Code'un lisansıdır.

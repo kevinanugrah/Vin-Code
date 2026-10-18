@@ -1043,7 +1043,7 @@ describe("GitHubCopilotHandler", () => {
 	})
 
 	describe("completePrompt", () => {
-		it("sends a justification so the host's consent prompt names Zoo Code", async () => {
+		it("sends a justification so the host's consent prompt names Vin Code", async () => {
 			mockLanguageModelChat.sendRequest.mockImplementation(async () => ({
 				stream: (async function* () {
 					yield new vscode.LanguageModelTextPart("enhanced")
@@ -1057,7 +1057,7 @@ describe("GitHubCopilotHandler", () => {
 			}
 
 			const requestOptions = mockLanguageModelChat.sendRequest.mock.calls[0][1]
-			expect(requestOptions.justification).toContain("Zoo Code")
+			expect(requestOptions.justification).toContain("Vin Code")
 			expect(requestOptions.justification).toContain(mockLanguageModelChat.name)
 		})
 

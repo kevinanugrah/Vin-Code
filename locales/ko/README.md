@@ -9,14 +9,14 @@
           <em>빠르게 도움받기 → <a href="https://discord.gg/VxfP4Vx3gX">Discord 참여하기</a> • 비동기가 더 좋아요? → <a href="https://www.reddit.com/r/ZooCode/">r/ZooCode 참여하기</a></em>
         </p>
 
-        # Zoo Code
+        # Vin Code
 
         > AI로 강화된 너의 개발 팀, 네 에디터 안에
 
-        ## 우리는 Zoo Code입니다
+        ## 우리는 Vin Code입니다
 
 > Roo 팀이 [Roomote](https://roomote.dev/)에 집중하기 위해 Roo Code의 적극적인
-> 개발을 중단한 뒤, Zoo Code가 이 프로젝트의 개발을 이어가고 있어. 그동안
+> 개발을 중단한 뒤, Vin Code가 이 프로젝트의 개발을 이어가고 있어. 그동안
 > 쌓아 온 모든 것에 대해 Roo 팀에게 고마워.
 >
 > 핵심 팀은 이전에 Roo에 기여했고 이 플러그인을 깊이 아끼는 개발자들로
@@ -27,15 +27,15 @@
 > [Reddit](https://www.reddit.com/r/ZooCode), 또는
 > [PR이나 issue 열기](https://github.com/Zoo-Code-Org/Zoo-Code).
 >
-> _-Zoo Code Team_
+> _-Vin Code Team_
 
-## Roo Code에서 Zoo Code로 마이그레이션
+## Roo Code에서 Vin Code로 마이그레이션
 
-Roo Code에서 Zoo Code로 옮겨오는 빠른 가이드는 [Roo→Zoo 마이그레이션 가이드](https://docs.zoocode.dev/roo-to-zoo-migration)에서 확인할 수 있어. 전환하는 동안 사용자들을 최대한 돕고 싶고, 바로 그 지원을 위해 [Reddit](https://www.reddit.com/r/ZooCode)와 [Discord](https://discord.gg/VxfP4Vx3gX)를 운영하고 있어. 문제가 있거나 궁금한 점이 있으면 들어와서 편하게 물어봐.
+Roo Code에서 Vin Code로 옮겨오는 빠른 가이드는 [Roo→Zoo 마이그레이션 가이드](https://docs.zoocode.dev/roo-to-zoo-migration)에서 확인할 수 있어. 전환하는 동안 사용자들을 최대한 돕고 싶고, 바로 그 지원을 위해 [Reddit](https://www.reddit.com/r/ZooCode)와 [Discord](https://discord.gg/VxfP4Vx3gX)를 운영하고 있어. 문제가 있거나 궁금한 점이 있으면 들어와서 편하게 물어봐.
 
-## Roo Code 이후 Zoo Code가 추가한 기능
+## Roo Code 이후 Vin Code가 추가한 기능
 
-Zoo Code는 Roo Code가 만든 기반 위에서 다음 기능을 더하며 계속 확장하고 있어:
+Vin Code는 Roo Code가 만든 기반 위에서 다음 기능을 더하며 계속 확장하고 있어:
 
 - **Semble 코드베이스 인텔리전스** — 자동 설정을 지원하고 별도 인덱싱 워크플로우 없이 사용할 수 있는 빠른 온디맨드 시맨틱 코드 검색.
 - **더 강력한 Orchestrator 워크플로우** — 더 안전한 위임, 병렬 작업 조정, 안정적인 상위/하위 작업 복구, 하위 작업과 프로바이더 프로필 간 격리 강화.
@@ -47,11 +47,11 @@ Zoo Code는 Roo Code가 만든 기반 위에서 다음 기능을 더하며 계�
 
 ## v3.90.0의 새로운 기능
 
-- ✨ **Provider와 모델:** GitHub Copilot이 이제 provider입니다. 로그인하면 Zoo Code가 Copilot 모델을 불러옵니다. IO Intelligence는 자체 API 키를 쓰는 provider입니다. Gemini 4 Argon은 Gemini와 Vertex에 있습니다. GPT-6 Luna는 OpenCode Go에 있습니다. Gemini 4 Argon과 GPT-6 Luna는 Zoo Gateway에도 있습니다.
-- 🧭 **도구 실행:** 같은 도구 호출을 반복하면 경고가 나오고, 그다음 Zoo Code가 그 루프를 멈춥니다. `attempt_completion`을 꺼도 작업이 끝나지 못하는 상태가 되지 않습니다. 대기 중인 메시지는 직접 보내는 명령과 같은 명령 보호 검사를 거칩니다.
+- ✨ **Provider와 모델:** GitHub Copilot이 이제 provider입니다. 로그인하면 Vin Code가 Copilot 모델을 불러옵니다. IO Intelligence는 자체 API 키를 쓰는 provider입니다. Gemini 4 Argon은 Gemini와 Vertex에 있습니다. GPT-6 Luna는 OpenCode Go에 있습니다. Gemini 4 Argon과 GPT-6 Luna는 Zoo Gateway에도 있습니다.
+- 🧭 **도구 실행:** 같은 도구 호출을 반복하면 경고가 나오고, 그다음 Vin Code가 그 루프를 멈춥니다. `attempt_completion`을 꺼도 작업이 끝나지 못하는 상태가 되지 않습니다. 대기 중인 메시지는 직접 보내는 명령과 같은 명령 보호 검사를 거칩니다.
 - ⚡ **추론과 스트리밍:** Anthropic adaptive thinking이 채팅에 표시되고 thinking token이 집계됩니다. R1 토글은 llama.cpp, Ollama, LM Studio의 추론을 유지합니다. Codex는 보이는 요약과 함께 암호화된 추론을 유지합니다. VS Code language model 스트림은 스트림이 실패하면 guarded recovery를 사용합니다.
 
-## Zoo Code가 당신을 위해 무엇을 할 수 있을까요?
+## Vin Code가 당신을 위해 무엇을 할 수 있을까요?
 
 - 자연어 설명으로 코드 생성
 - 모드로 적응: 코드, 아키텍트, 질문, 디버그 및 사용자 지정 모드
@@ -63,7 +63,7 @@ Zoo Code는 Roo Code가 만든 기반 위에서 다음 기능을 더하며 계�
 
 ## 모드
 
-Zoo Code는 당신의 작업 방식에 맞춰 적응합니다.
+Vin Code는 당신의 작업 방식에 맞춰 적응합니다.
 
 - 코드 모드: 일상적인 코딩, 편집 및 파일 작업
 - 아키텍트 모드: 시스템, 사양 및 마이그레이션 계획
@@ -75,7 +75,7 @@ Zoo Code는 당신의 작업 방식에 맞춰 적응합니다.
 
 ## 리소스
 
-- **[문서](https://docs.zoocode.dev):** Zoo Code 설치, 구성 및 마스터하기 위한 공식 가이드.
+- **[문서](https://docs.zoocode.dev):** Vin Code 설치, 구성 및 마스터하기 위한 공식 가이드.
 - **[Discord 서버](https://discord.gg/VxfP4Vx3gX):** 커뮤니티에 가입하여 실시간 도움과 토론에 참여하세요.
 - **[Reddit 커뮤니티](https://www.reddit.com/r/ZooCode):** 경험을 공유하고 다른 사람들이 무엇을 만들고 있는지 확인하세요.
 - **[GitHub 문제](https://github.com/Zoo-Code-Org/Zoo-Code/issues):** 버그를 보고하고 개발을 추적하세요.
@@ -99,13 +99,13 @@ pnpm install
 
 3. **확장 프로그램 실행**:
 
-Zoo Code 확장 프로그램을 실행하는 방법에는 여러 가지가 있습니다:
+Vin Code 확장 프로그램을 실행하는 방법에는 여러 가지가 있습니다:
 
 ### 개발 모드 (F5)
 
 활성 개발을 위해 VSCode의 내장 디버깅을 사용하세요:
 
-VSCode에서 `F5`를 누르거나 **실행** → **디버깅 시작**으로 이동하세요. 그러면 Zoo Code 확장 프로그램이 실행되는 새 VSCode 창이 열립니다.
+VSCode에서 `F5`를 누르거나 **실행** → **디버깅 시작**으로 이동하세요. 그러면 Vin Code 확장 프로그램이 실행되는 새 VSCode 창이 열립니다.
 
 - 웹뷰 변경 사항은 즉시 나타납니다.
 - 핵심 확장 프로그램 변경 사항도 자동으로 핫 리로드됩니다.
@@ -153,7 +153,7 @@ VSIX 패키지를 수동으로 설치하려면:
 
 ## 면책 조항
 
-**참고:** Zoo Code는 Zoo Code, 관련 타사 도구 또는 그 결과물과 관련하여 제공되거나 사용 가능하게 된 어떠한 코드, 모델 또는 기타 도구에 대해서도 어떠한 진술이나 보증을 하지 **않습니다**. 귀하는 그러한 도구나 결과물의 사용과 관련된 **모든 위험**을 부담합니다. 해당 도구는 **"있는 그대로"** 및 **"사용 가능한 대로"** 제공됩니다. 그러한 위험에는 지적 재산권 침해, 사이버 취약성 또는 공격, 편견, 부정확성, 오류, 결함, 바이러스, 다운타임, 재산 손실 또는 손상 및/또는 개인 상해가 포함될 수 있으며 이에 국한되지 않습니다. 귀하는 그러한 도구 또는 결과물의 사용(합법성, 적절성 및 그 결과를 포함하되 이에 국한되지 않음)에 대해 전적으로 책임을 집니다.
+**참고:** Vin Code는 Vin Code, 관련 타사 도구 또는 그 결과물과 관련하여 제공되거나 사용 가능하게 된 어떠한 코드, 모델 또는 기타 도구에 대해서도 어떠한 진술이나 보증을 하지 **않습니다**. 귀하는 그러한 도구나 결과물의 사용과 관련된 **모든 위험**을 부담합니다. 해당 도구는 **"있는 그대로"** 및 **"사용 가능한 대로"** 제공됩니다. 그러한 위험에는 지적 재산권 침해, 사이버 취약성 또는 공격, 편견, 부정확성, 오류, 결함, 바이러스, 다운타임, 재산 손실 또는 손상 및/또는 개인 상해가 포함될 수 있으며 이에 국한되지 않습니다. 귀하는 그러한 도구 또는 결과물의 사용(합법성, 적절성 및 그 결과를 포함하되 이에 국한되지 않음)에 대해 전적으로 책임을 집니다.
 
 ---
 
@@ -165,8 +165,8 @@ VSIX 패키지를 수동으로 설치하려면:
 
 ## 라이선스
 
-[Apache 2.0 © 2025 Zoo Code Org](../../LICENSE)
+[Apache 2.0 © 2025 Vin Code Org](../../LICENSE)
 
 ---
 
-**Zoo Code를 즐겨 보세요!** 짧은 리드줄로 가까이 두든 자율적으로 돌아다니게 하든, 여러분이 무엇을 만들지 기대하고 있습니다. 질문이나 기능 아이디어가 있다면 [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues)를 열거나 [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions)을 시작해 주세요. 즐거운 코딩 되세요!
+**Vin Code를 즐겨 보세요!** 짧은 리드줄로 가까이 두든 자율적으로 돌아다니게 하든, 여러분이 무엇을 만들지 기대하고 있습니다. 질문이나 기능 아이디어가 있다면 [issue](https://github.com/Zoo-Code-Org/Zoo-Code/issues)를 열거나 [discussion](https://github.com/Zoo-Code-Org/Zoo-Code/discussions)을 시작해 주세요. 즐거운 코딩 되세요!

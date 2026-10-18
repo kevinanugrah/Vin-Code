@@ -1,5 +1,5 @@
 {
-	"greeting": "Zoo Code へようこそ！",
+	"greeting": "Vin Code へようこそ！",
 	"task": {
 		"title": "タスク",
 		"expand": "タスクを展開",
@@ -98,7 +98,7 @@
 	"enqueueMessage": "メッセージをキューに追加（現在のタスク完了後に送信されます）",
 	"scrollToBottom": "チャットの最下部にスクロール",
 	"scrollToLatestCheckpoint": "前のチェックポイントまでスクロール",
-	"about": "Zoo Codeは、エディタに常駐するAI開発チームです。",
+	"about": "Vin Codeは、エディタに常駐するAI開発チームです。",
 	"docs": "詳細については、<DocsLink>ドキュメント</DocsLink>をご確認ください。",
 	"onboarding": "このワークスペースのタスクリストは空です。",
 	"rooTips": {
@@ -171,7 +171,7 @@
 			"500": "プロバイダー サーバー エラー。プロバイダー側に問題があり、リクエスト自体に問題はありません。",
 			"docs": "ドキュメント",
 			"goToSettings": "設定",
-			"unknown": "不明な API エラーです。Zoo Code サポートにお問い合わせください。",
+			"unknown": "不明な API エラーです。Vin Code サポートにお問い合わせください。",
 			"connection": "接続エラー。インターネット接続が機能していることを確認してください。",
 			"claudeCodeNotAuthenticated": "Claude Codeを使用するにはサインインが必要です。設定に移動して「Claude Codeにサインイン」をクリックして認証してください。"
 		}
@@ -349,12 +349,12 @@
 		"timerPrefix": "自動承認が有効です。{{seconds}}秒後に選択中…"
 	},
 	"announcement": {
-		"title": "Zoo Code {{version}} リリース",
-		"support": "<githubLink>GitHub</githubLink>でスターを付けて Zoo Code を応援してください。",
+		"title": "Vin Code {{version}} リリース",
+		"support": "<githubLink>GitHub</githubLink>でスターを付けて Vin Code を応援してください。",
 		"release": {
-			"heading": "Zoo Code v3.90.0 の新機能",
-			"highlight1": "✨ Provider とモデル: GitHub Copilot が provider になりました。サインインすると、Zoo Code が Copilot モデルを読み込みます。IO Intelligence は専用の API キーを使う provider です。Gemini 4 Argon は Gemini と Vertex にあります。GPT-6 Luna は OpenCode Go にあります。Gemini 4 Argon と GPT-6 Luna は Zoo Gateway にもあります。",
-			"highlight2": "🧭 ツール実行: 同じツール呼び出しを繰り返すと警告が出て、その後 Zoo Code がそのループを止めます。attempt_completion を無効にしても、タスクが完了できない状態にはなりません。キュー内のメッセージは、直接送るコマンドと同じコマンド保護チェックを通ります。",
+			"heading": "Vin Code v3.90.0 の新機能",
+			"highlight1": "✨ Provider とモデル: GitHub Copilot が provider になりました。サインインすると、Vin Code が Copilot モデルを読み込みます。IO Intelligence は専用の API キーを使う provider です。Gemini 4 Argon は Gemini と Vertex にあります。GPT-6 Luna は OpenCode Go にあります。Gemini 4 Argon と GPT-6 Luna は Zoo Gateway にもあります。",
+			"highlight2": "🧭 ツール実行: 同じツール呼び出しを繰り返すと警告が出て、その後 Vin Code がそのループを止めます。attempt_completion を無効にしても、タスクが完了できない状態にはなりません。キュー内のメッセージは、直接送るコマンドと同じコマンド保護チェックを通ります。",
 			"highlight3": "⚡ 推論とストリーミング: Anthropic の adaptive thinking がチャットに表示され、thinking token がカウントされます。R1 トグルは llama.cpp、Ollama、LM Studio の推論を保持します。Codex は、表示される要約とともに暗号化された推論を保持します。VS Code の language model ストリームは、ストリームが失敗したときに guarded recovery を使います。"
 		},
 		"cloudAgents": {
@@ -379,7 +379,7 @@
 	"profileViolationWarning": "現在のプロファイルは組織の設定と互換性がありません",
 	"shellIntegration": {
 		"title": "コマンド実行警告",
-		"description": "コマンドはVSCodeターミナルシェル統合なしで実行されています。この警告を非表示にするには、<settingsLink>Zoo Code 設定</settingsLink>の<strong>Terminal</strong>セクションでシェル統合を無効にするか、以下のリンクを使用してVSCodeターミナル統合のトラブルシューティングを行ってください。",
+		"description": "コマンドはVSCodeターミナルシェル統合なしで実行されています。この警告を非表示にするには、<settingsLink>Vin Code 設定</settingsLink>の<strong>Terminal</strong>セクションでシェル統合を無効にするか、以下のリンクを使用してVSCodeターミナル統合のトラブルシューティングを行ってください。",
 		"troubleshooting": "シェル統合のドキュメントはこちらをクリック"
 	},
 	"ask": {

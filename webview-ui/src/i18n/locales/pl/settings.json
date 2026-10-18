@@ -40,7 +40,7 @@
 		"ui": "UI",
 		"experimental": "Eksperymentalne",
 		"language": "Język",
-		"about": "O Zoo Code",
+		"about": "O Vin Code",
 		"skills": "Skills",
 		"rules": "Reguły"
 	},
@@ -57,7 +57,7 @@
 			"label": "Odkryłeś lukę w zabezpieczeniach?",
 			"link": "Postępuj zgodnie z naszym procesem ujawniania"
 		},
-		"community": "Chcesz wskazówek lub po prostu porozmawiać z innymi użytkownikami Zoo Code? Dołącz do <redditLink>reddit.com/r/ZooCode</redditLink> lub <discordLink>discord.gg/VxfP4Vx3gX</discordLink>",
+		"community": "Chcesz wskazówek lub po prostu porozmawiać z innymi użytkownikami Vin Code? Dołącz do <redditLink>reddit.com/r/ZooCode</redditLink> lub <discordLink>discord.gg/VxfP4Vx3gX</discordLink>",
 		"contactAndCommunity": "Kontakt i Społeczność",
 		"manageSettings": "Zarządzaj Ustawieniami",
 		"debugMode": {
@@ -67,7 +67,7 @@
 		"rooHistoryImport": {
 			"settingLabel": "Importuj historię z Roo Code",
 			"cardTitle": "Historia Roo Code",
-			"cardDescription": "Skopiuj zapisane rozmowy Roo Code do Zoo Code.",
+			"cardDescription": "Skopiuj zapisane rozmowy Roo Code do Vin Code.",
 			"statusImporting": "Importowanie historii",
 			"statusFailed": "Import nie powiódł się",
 			"statusComplete": "Import zakończony",
@@ -119,7 +119,7 @@
 		"footer": "Używaj poleceń slash do szybkiego dostępu do często używanych podpowiedzi i przepływów pracy."
 	},
 	"rules": {
-		"description": "Zarządzaj plikami reguł Zoo Code z globalnych i workspace’owych katalogów .roo/rules. Twórz reguły ogólne lub specyficzne dla trybu bez ręcznego przeglądania folderów konfiguracji.",
+		"description": "Zarządzaj plikami reguł Vin Code z globalnych i workspace’owych katalogów .roo/rules. Twórz reguły ogólne lub specyficzne dla trybu bez ręcznego przeglądania folderów konfiguracji.",
 		"workspaceRules": "Reguły workspace",
 		"globalRules": "Reguły globalne",
 		"noWorkspaceRules": "W tym projekcie nie ma jeszcze reguł.",
@@ -400,7 +400,7 @@
 		"awsCustomArnDesc": "Upewnij się, że region w ARN odpowiada wybranemu powyżej regionowi AWS.",
 		"awsCustomArnBaseModel": "Model bazowy",
 		"awsCustomArnBaseModelOther": "Inny (niewymieniony)",
-		"awsCustomArnBaseModelDesc": "Model, na który wskazuje ten ARN. Zoo Code używa go do myślenia, temperatury, okna kontekstu, maksymalnego wyjścia i cen. Wykrywany automatycznie, gdy ARN zawiera nazwę modelu.",
+		"awsCustomArnBaseModelDesc": "Model, na który wskazuje ten ARN. Vin Code używa go do myślenia, temperatury, okna kontekstu, maksymalnego wyjścia i cen. Wykrywany automatycznie, gdy ARN zawiera nazwę modelu.",
 		"awsCustomArnContextWindow": "Okno kontekstu (tokeny)",
 		"awsCustomArnMaxTokens": "Maksymalna liczba tokenów wyjściowych",
 		"openRouterApiKey": "Klucz API OpenRouter",
@@ -476,7 +476,7 @@
 		"headerValue": "Wartość nagłówka",
 		"noCustomHeaders": "Brak zdefiniowanych niestandardowych nagłówków. Kliknij przycisk +, aby dodać.",
 		"extraBody": "Dodatkowa treść",
-		"extraBodyDescription": "Opcjonalny obiekt JSON scalany z treścią żądań API. Pola zarządzane przez Zoo Code, takie jak model, messages, tools i stream, nie mogą zostać nadpisane. Nie umieszczaj tu sekretów.",
+		"extraBodyDescription": "Opcjonalny obiekt JSON scalany z treścią żądań API. Pola zarządzane przez Vin Code, takie jak model, messages, tools i stream, nie mogą zostać nadpisane. Nie umieszczaj tu sekretów.",
 		"unboundApiKey": "Klucz API Unbound",
 		"getUnboundApiKey": "Uzyskaj klucz API Unbound",
 		"requestyApiKey": "Klucz API Requesty",
@@ -616,7 +616,7 @@
 			"draftModelDesc": "Aby dekodowanie spekulacyjne działało poprawnie, model szkicu musi pochodzić z tej samej rodziny modeli.",
 			"selectDraftModel": "Wybierz model szkicu",
 			"noModelsFound": "Nie znaleziono modeli szkicu. Upewnij się, że LM Studio jest uruchomione z włączonym trybem serwera.",
-			"description": "LM Studio pozwala na lokalne uruchamianie modeli na twoim komputerze. Aby rozpocząć, zapoznaj się z ich <a>przewodnikiem szybkiego startu</a>. Będziesz również musiał uruchomić funkcję <b>serwera lokalnego</b> LM Studio, aby używać go z tym rozszerzeniem. <span>Uwaga:</span> Zoo Code używa złożonych podpowiedzi i działa najlepiej z modelami Claude. Modele o niższych możliwościach mogą nie działać zgodnie z oczekiwaniami."
+			"description": "LM Studio pozwala na lokalne uruchamianie modeli na twoim komputerze. Aby rozpocząć, zapoznaj się z ich <a>przewodnikiem szybkiego startu</a>. Będziesz również musiał uruchomić funkcję <b>serwera lokalnego</b> LM Studio, aby używać go z tym rozszerzeniem. <span>Uwaga:</span> Vin Code używa złożonych podpowiedzi i działa najlepiej z modelami Claude. Modele o niższych możliwościach mogą nie działać zgodnie z oczekiwaniami."
 		},
 		"ollama": {
 			"baseUrl": "URL bazowy (opcjonalnie)",
@@ -628,7 +628,7 @@
 			"thinking": "Włącz wnioskowanie",
 			"thinkingHelp": "Włącz natywne wnioskowanie Ollama dla modeli wnioskujących (np. qwen3, deepseek-r1). Po włączeniu wnioskowanie modelu jest przesyłane i wyświetlane oddzielnie. Nieobsługiwane modele zignorują to ustawienie.",
 			"description": "Ollama pozwala na lokalne uruchamianie modeli na twoim komputerze. Aby rozpocząć, zapoznaj się z przewodnikiem szybkiego startu.",
-			"warning": "Uwaga: Zoo Code używa złożonych podpowiedzi i działa najlepiej z modelami Claude. Modele o niższych możliwościach mogą nie działać zgodnie z oczekiwaniami."
+			"warning": "Uwaga: Vin Code używa złożonych podpowiedzi i działa najlepiej z modelami Claude. Modele o niższych możliwościach mogą nie działać zgodnie z oczekiwaniami."
 		},
 		"openRouter": {
 			"providerRouting": {
@@ -638,7 +638,7 @@
 			}
 		},
 		"customModel": {
-			"capabilities": "Skonfiguruj możliwości i ceny swojego niestandardowego modelu zgodnego z OpenAI. Zachowaj ostrożność podczas określania możliwości modelu, ponieważ mogą one wpływać na wydajność Zoo Code.",
+			"capabilities": "Skonfiguruj możliwości i ceny swojego niestandardowego modelu zgodnego z OpenAI. Zachowaj ostrożność podczas określania możliwości modelu, ponieważ mogą one wpływać na wydajność Vin Code.",
 			"maxTokens": {
 				"label": "Maksymalna liczba tokenów wyjściowych",
 				"description": "Maksymalna liczba tokenów, które model może wygenerować w odpowiedzi. (Określ -1, aby pozwolić serwerowi ustawić maksymalną liczbę tokenów.)"
@@ -719,8 +719,8 @@
 			"maxTokensDescription": "Maksymalna liczba tokenów wyjściowych dla odpowiedzi Claude Code. Domyślnie 8000."
 		},
 		"zooGateway": {
-			"account": "Konto Zoo Code",
-			"signInButton": "Zaloguj się do Zoo Code",
+			"account": "Konto Vin Code",
+			"signInButton": "Zaloguj się do Vin Code",
 			"signInDescription": "Zaloguj się, aby korzystać z Zoo Gateway ze swoim kontem",
 			"authenticated": "Uwierzytelniono",
 			"authenticatedAs": "Uwierzytelniono jako {{name}}"
@@ -913,9 +913,9 @@
 			"description": "Włącz, aby dziedziczyć zmienne środowiskowe z procesu nadrzędnego VS Code. <0>Dowiedz się więcej</0>"
 		},
 		"profile": {
-			"label": "Profil terminala Zoo Code",
+			"label": "Profil terminala Vin Code",
 			"followVscode": "Podążanie za profilem VS Code (zalecane)",
-			"description": "Domyślnie Zoo Code używa powłoki skonfigurowanej w VS Code. Wybierz profil powłoki z listy, aby użyć profilu ze ścieżką udostępnionego przez VS Code. Profile tylko ze źródłem (np. wbudowany wpis PowerShell) nie mogą być tutaj wyświetlone. <0>Dowiedz się więcej</0>",
+			"description": "Domyślnie Vin Code używa powłoki skonfigurowanej w VS Code. Wybierz profil powłoki z listy, aby użyć profilu ze ścieżką udostępnionego przez VS Code. Profile tylko ze źródłem (np. wbudowany wpis PowerShell) nie mogą być tutaj wyświetlone. <0>Dowiedz się więcej</0>",
 			"configureButton": "Wybierz domyślny profil w VS Code",
 			"noProfiles": "(brak profili ze ścieżką w terminal.integrated.profiles)"
 		}
@@ -1021,7 +1021,7 @@
 		"imageSupportUnknown": "Obsługa obrazów nie została zgłoszona",
 		"toolSupportUnknown": "Obsługa narzędzi nie została zgłoszona",
 		"promptCacheManagedByCopilot": "Buforowaniem promptów zarządza GitHub Copilot",
-		"promptCacheCopilotDetails": "Buforowanie zależy od modelu i zaplecza GitHub Copilot. Zoo Code nie może skonfigurować czasu przechowywania pamięci podręcznej ani obserwować trafień w pamięci podręcznej przez API VS Code.",
+		"promptCacheCopilotDetails": "Buforowanie zależy od modelu i zaplecza GitHub Copilot. Vin Code nie może skonfigurować czasu przechowywania pamięci podręcznej ani obserwować trafień w pamięci podręcznej przez API VS Code.",
 		"supportsImages": "Obsługuje obrazy",
 		"noImages": "Nie obsługuje obrazów",
 		"supportsTools": "Obsługuje narzędzia",
@@ -1046,7 +1046,7 @@
 		}
 	},
 	"modelPicker": {
-		"automaticFetch": "Rozszerzenie automatycznie pobiera najnowszą listę modeli dostępnych w <serviceLink>{{serviceName}}</serviceLink>. Jeśli nie jesteś pewien, który model wybrać, Zoo Code działa najlepiej z <defaultModelLink>{{defaultModelId}}</defaultModelLink>. Możesz również wyszukać \"free\", aby znaleźć obecnie dostępne opcje bezpłatne.",
+		"automaticFetch": "Rozszerzenie automatycznie pobiera najnowszą listę modeli dostępnych w <serviceLink>{{serviceName}}</serviceLink>. Jeśli nie jesteś pewien, który model wybrać, Vin Code działa najlepiej z <defaultModelLink>{{defaultModelId}}</defaultModelLink>. Możesz również wyszukać \"free\", aby znaleźć obecnie dostępne opcje bezpłatne.",
 		"label": "Model",
 		"searchPlaceholder": "Wyszukaj",
 		"noMatchFound": "Nie znaleziono dopasowań",
@@ -1056,7 +1056,7 @@
 	"footer": {
 		"telemetry": {
 			"label": "Zezwól na raportowanie błędów i użycia",
-			"description": "Pomóż ulepszyć Zoo Code, wysyłając dane użytkowania i raporty błędów powiązane z identyfikatorem instalacji, a nie z Twoim imieniem czy kontem. Ta telemetria nie zbiera Twojego kodu ani podpowiedzi. Zobacz naszą <privacyLink>politykę prywatności</privacyLink>, aby uzyskać więcej szczegółów. Możesz to wyłączyć w dowolnym momencie."
+			"description": "Pomóż ulepszyć Vin Code, wysyłając dane użytkowania i raporty błędów powiązane z identyfikatorem instalacji, a nie z Twoim imieniem czy kontem. Ta telemetria nie zbiera Twojego kodu ani podpowiedzi. Zobacz naszą <privacyLink>politykę prywatności</privacyLink>, aby uzyskać więcej szczegółów. Możesz to wyłączyć w dowolnym momencie."
 		},
 		"settings": {
 			"import": "Importuj",
@@ -1078,7 +1078,7 @@
 		"openAiExtraBody": {
 			"invalidJson": "Dodatkowa treść musi zawierać prawidłowy kod JSON.",
 			"objectRequired": "Dodatkowa treść musi być obiektem JSON.",
-			"reservedKeys": "Dodatkowa treść nie może nadpisywać pól zarządzanych przez Zoo Code: {{keys}}."
+			"reservedKeys": "Dodatkowa treść nie może nadpisywać pól zarządzanych przez Vin Code: {{keys}}."
 		},
 		"arn": {
 			"invalidFormat": "Nieprawidłowy format ARN. Sprawdź wymagania dotyczące formatu.",
@@ -1090,7 +1090,7 @@
 		"modelNotAllowed": "Model '{{model}}' nie jest dozwolony dla dostawcy '{{provider}}' przez Twoją organizację",
 		"profileInvalid": "Ten profil zawiera dostawcę lub model, który nie jest dozwolony przez Twoją organizację",
 		"qwenCodeOauthPath": "Musisz podać prawidłową ścieżkę do poświadczeń OAuth",
-		"zooGatewaySignIn": "Zaloguj się do Zoo Code, aby korzystać z Zoo Gateway."
+		"zooGatewaySignIn": "Zaloguj się do Vin Code, aby korzystać z Zoo Gateway."
 	},
 	"placeholders": {
 		"apiKey": "Wprowadź klucz API...",
@@ -1161,7 +1161,7 @@
 		},
 		"chatFontSize": {
 			"label": "Rozmiar czcionki czatu",
-			"description": "Ustaw rozmiar czcionki (w pikselach) dla czatu Zoo Code. Pozostaw wartość domyślną, aby dopasować ją do rozmiaru czcionki VS Code.",
+			"description": "Ustaw rozmiar czcionki (w pikselach) dla czatu Vin Code. Pozostaw wartość domyślną, aby dopasować ją do rozmiaru czcionki VS Code.",
 			"reset": "Użyj wartości domyślnej VS Code"
 		},
 		"autoCloseZooOpenedFiles": {

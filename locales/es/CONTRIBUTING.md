@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Contribuir a Zoo Code
+# Contribuir a Vin Code
 
-Zoo Code es un proyecto comunitario. Valoramos cada contribución. Trabajamos con el enfoque de [primero la incidencia](#issue-first-approach). Esto significa que cada [Pull Request (PR)](#submitting-a-pull-request) debe enlazar a una incidencia de GitHub. Lee esta guía con atención.
+Vin Code es un proyecto comunitario. Valoramos cada contribución. Trabajamos con el enfoque de [primero la incidencia](#issue-first-approach). Esto significa que cada [Pull Request (PR)](#submitting-a-pull-request) debe enlazar a una incidencia de GitHub. Lee esta guía con atención.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Nuestra hoja de ruta muestra la dirección del proyecto. Alinea tus contribucion
 ### La fiabilidad primero
 
 - Haz que la edición con diff y la ejecución de comandos sean fiables siempre.
-- Elimina los problemas que impiden usar Zoo Code cada día.
-- Haz que Zoo Code funcione en todos los idiomas y plataformas.
+- Elimina los problemas que impiden usar Vin Code cada día.
+- Haz que Vin Code funcione en todos los idiomas y plataformas.
 - Añade soporte para más proveedores y modelos de IA.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ En tus PRs, indica a cuáles de estas áreas ayuda el cambio.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Únete a la comunidad de Zoo Code
+### 3. Únete a la comunidad de Vin Code
 
 - **Discord:** Únete a nuestro [Discord](https://discord.gg/VxfP4Vx3gX).
 - **Reddit:** Únete a nuestro [Reddit](https://www.reddit.com/r/ZooCode/).
@@ -109,7 +109,7 @@ Cada contribución empieza con una incidencia de GitHub. Usa nuestras plantillas
 ### Decidir en qué trabajar
 
 - Consulta la [página de GitHub Issues](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- Para la documentación, ve a [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- Para la documentación, ve a [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Cada contribución empieza con una incidencia de GitHub. Usa nuestras plantillas
 - Crea un informe de error con la [plantilla "Bug Report"](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) e incluye:
     - Pasos claros y numerados para reproducir el error
     - Resultado esperado y resultado real
-    - Versión de Zoo Code (obligatoria)
+    - Versión de Vin Code (obligatoria)
     - Proveedor de API y modelo, si son relevantes
 - **Problemas de seguridad**: Informa de ellos en privado mediante los [avisos de seguridad](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -258,4 +258,4 @@ Estas reglas son pautas de escritura. Los revisores no comprueban el cumplimient
 
 ## Aspectos legales
 
-Al contribuir, aceptas que tus contribuciones usen la licencia Apache 2.0. Esta es la licencia de Zoo Code.
+Al contribuir, aceptas que tus contribuciones usen la licencia Apache 2.0. Esta es la licencia de Vin Code.

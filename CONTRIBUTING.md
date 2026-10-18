@@ -11,9 +11,9 @@
 </sub>
 </div>
 
-# Contributing to Zoo Code
+# Contributing to Vin Code
 
-Zoo Code is a community project. We value every contribution. We work on an [Issue-First](#issue-first-approach) basis. This means each [Pull Request (PR)](#submitting-a-pull-request) must link to a GitHub Issue. Read this guide with care.
+Vin Code is a community project. We value every contribution. We work on an [Issue-First](#issue-first-approach) basis. This means each [Pull Request (PR)](#submitting-a-pull-request) must link to a GitHub Issue. Read this guide with care.
 
 ## Table of Contents
 
@@ -38,8 +38,8 @@ Our roadmap shows the direction of the project. Align your contributions with th
 ### Reliability First
 
 - Make diff editing and command execution reliable every time.
-- Remove the problems that stop people from using Zoo Code every day.
-- Make Zoo Code work on all locales and platforms.
+- Remove the problems that stop people from using Vin Code every day.
+- Make Vin Code work on all locales and platforms.
 - Support more AI providers and models.
 
 ### Enhanced User Experience
@@ -55,7 +55,7 @@ Our roadmap shows the direction of the project. Align your contributions with th
 
 In your PRs, say which of these areas the change supports.
 
-### 3. Join the Zoo Code Community
+### 3. Join the Vin Code Community
 
 - **Discord:** Join our [Discord](https://discord.gg/VxfP4Vx3gX).
 - **Reddit:** Join our [Reddit](https://www.reddit.com/r/ZooCode/).
@@ -83,7 +83,7 @@ Each contribution starts with a GitHub Issue. Use our short templates.
 ### Deciding What to Work On
 
 - Look at the [GitHub Issues page](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- For docs, go to [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- For docs, go to [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 ### Reporting Bugs
 
@@ -91,7 +91,7 @@ Each contribution starts with a GitHub Issue. Use our short templates.
 - Create a new bug using the ["Bug Report" template](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) with:
     - Clear, numbered reproduction steps
     - Expected result and actual result
-    - Zoo Code version (required)
+    - Vin Code version (required)
     - API provider and model, if they matter
 - **Security issues**: Report them in private with [security advisories](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -211,4 +211,4 @@ These rules are writing guidance. Reviewers do not check formal ASD-STE100 compl
 
 ## Legal
 
-When you contribute, you agree that your contributions use the Apache 2.0 License. This is the license of Zoo Code.
+When you contribute, you agree that your contributions use the Apache 2.0 License. This is the license of Vin Code.

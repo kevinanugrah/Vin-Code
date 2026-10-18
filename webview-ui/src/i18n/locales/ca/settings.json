@@ -40,7 +40,7 @@
 		"ui": "UI",
 		"experimental": "Experimental",
 		"language": "Idioma",
-		"about": "Sobre Zoo Code",
+		"about": "Sobre Vin Code",
 		"skills": "Skills",
 		"rules": "Regles"
 	},
@@ -57,7 +57,7 @@
 			"label": "Has descobert una vulnerabilitat?",
 			"link": "Segueix el nostre procés de divulgació"
 		},
-		"community": "Vols consells o simplement passar l'estona amb altres usuaris de Zoo Code? Uneix-te a <redditLink>reddit.com/r/ZooCode</redditLink> o <discordLink>discord.gg/VxfP4Vx3gX</discordLink>",
+		"community": "Vols consells o simplement passar l'estona amb altres usuaris de Vin Code? Uneix-te a <redditLink>reddit.com/r/ZooCode</redditLink> o <discordLink>discord.gg/VxfP4Vx3gX</discordLink>",
 		"contactAndCommunity": "Contacte i Comunitat",
 		"manageSettings": "Gestionar Configuració",
 		"debugMode": {
@@ -67,7 +67,7 @@
 		"rooHistoryImport": {
 			"settingLabel": "Importa l'historial des de Roo Code",
 			"cardTitle": "Historial de Roo Code",
-			"cardDescription": "Copia les converses desades de Roo Code a Zoo Code.",
+			"cardDescription": "Copia les converses desades de Roo Code a Vin Code.",
 			"statusImporting": "Important l'historial",
 			"statusFailed": "La importació ha fallat",
 			"statusComplete": "Importació completada",
@@ -119,7 +119,7 @@
 		"footer": "Utilitza comandes de barra per accedir ràpidament a indicacions i fluxos de treball utilitzats freqüentment."
 	},
 	"rules": {
-		"description": "Gestiona els fitxers de regles de Zoo Code des dels directoris .roo/rules globals i de l’espai de treball. Crea regles generals o específiques de mode sense haver de navegar manualment per carpetes de configuració.",
+		"description": "Gestiona els fitxers de regles de Vin Code des dels directoris .roo/rules globals i de l’espai de treball. Crea regles generals o específiques de mode sense haver de navegar manualment per carpetes de configuració.",
 		"workspaceRules": "Regles de l’espai de treball",
 		"globalRules": "Regles globals",
 		"noWorkspaceRules": "Encara no hi ha regles en aquest projecte.",
@@ -400,7 +400,7 @@
 		"awsCustomArnDesc": "Assegureu-vos que la regió a l'ARN coincideix amb la regió d'AWS seleccionada anteriorment.",
 		"awsCustomArnBaseModel": "Model subjacent",
 		"awsCustomArnBaseModelOther": "Altre (no és a la llista)",
-		"awsCustomArnBaseModelDesc": "El model al qual apunta aquest ARN. Zoo Code l'utilitza per al raonament, la temperatura, la finestra de context, la sortida màxima i els preus. Es detecta automàticament quan l'ARN indica el model.",
+		"awsCustomArnBaseModelDesc": "El model al qual apunta aquest ARN. Vin Code l'utilitza per al raonament, la temperatura, la finestra de context, la sortida màxima i els preus. Es detecta automàticament quan l'ARN indica el model.",
 		"awsCustomArnContextWindow": "Finestra de context (tokens)",
 		"awsCustomArnMaxTokens": "Tokens de sortida màxims",
 		"openRouterApiKey": "Clau API d'OpenRouter",
@@ -476,7 +476,7 @@
 		"headerValue": "Valor de la capçalera",
 		"noCustomHeaders": "No hi ha capçaleres personalitzades definides. Feu clic al botó + per afegir-ne una.",
 		"extraBody": "Cos addicional",
-		"extraBodyDescription": "Objecte JSON opcional que es combina amb els cossos de les sol·licituds API. Els camps gestionats per Zoo Code, com ara model, messages, tools i stream, no es poden sobreescriure. No inclogueu secrets.",
+		"extraBodyDescription": "Objecte JSON opcional que es combina amb els cossos de les sol·licituds API. Els camps gestionats per Vin Code, com ara model, messages, tools i stream, no es poden sobreescriure. No inclogueu secrets.",
 		"unboundApiKey": "Clau API de Unbound",
 		"getUnboundApiKey": "Obtenir clau API de Unbound",
 		"requestyApiKey": "Clau API de Requesty",
@@ -616,7 +616,7 @@
 			"draftModelDesc": "El model d'esborrany ha de ser de la mateixa família de models perquè la descodificació especulativa funcioni correctament.",
 			"selectDraftModel": "Seleccionar model d'esborrany",
 			"noModelsFound": "No s'han trobat models d'esborrany. Assegureu-vos que LM Studio s'està executant amb el mode servidor habilitat.",
-			"description": "LM Studio permet executar models localment al vostre ordinador. Per a instruccions sobre com començar, consulteu la seva <a>Guia d'inici ràpid</a>. També necessitareu iniciar la funció de <b>Servidor Local</b> de LM Studio per utilitzar-la amb aquesta extensió. <span>Nota:</span> Zoo Code utilitza prompts complexos i funciona millor amb models Claude. Els models menys capaços poden no funcionar com s'espera."
+			"description": "LM Studio permet executar models localment al vostre ordinador. Per a instruccions sobre com començar, consulteu la seva <a>Guia d'inici ràpid</a>. També necessitareu iniciar la funció de <b>Servidor Local</b> de LM Studio per utilitzar-la amb aquesta extensió. <span>Nota:</span> Vin Code utilitza prompts complexos i funciona millor amb models Claude. Els models menys capaços poden no funcionar com s'espera."
 		},
 		"ollama": {
 			"baseUrl": "URL base (opcional)",
@@ -628,7 +628,7 @@
 			"thinking": "Activa el raonament",
 			"thinkingHelp": "Activa el raonament natiu d'Ollama per a models de raonament (p. ex. qwen3, deepseek-r1). Quan està activat, el raonament del model es transmet i es mostra per separat. Els models no compatibles ignoraran aquesta configuració.",
 			"description": "Ollama permet executar models localment al vostre ordinador. Per a instruccions sobre com començar, consulteu la Guia d'inici ràpid.",
-			"warning": "Nota: Zoo Code utilitza prompts complexos i funciona millor amb models Claude. Els models menys capaços poden no funcionar com s'espera."
+			"warning": "Nota: Vin Code utilitza prompts complexos i funciona millor amb models Claude. Els models menys capaços poden no funcionar com s'espera."
 		},
 		"openRouter": {
 			"providerRouting": {
@@ -638,7 +638,7 @@
 			}
 		},
 		"customModel": {
-			"capabilities": "Configureu les capacitats i preus per al vostre model personalitzat compatible amb OpenAI. Tingueu cura en especificar les capacitats del model, ja que poden afectar com funciona Zoo Code.",
+			"capabilities": "Configureu les capacitats i preus per al vostre model personalitzat compatible amb OpenAI. Tingueu cura en especificar les capacitats del model, ja que poden afectar com funciona Vin Code.",
 			"maxTokens": {
 				"label": "Màxim de tokens de sortida",
 				"description": "El nombre màxim de tokens que el model pot generar en una resposta. (Establiu -1 per permetre que el servidor estableixi el màxim de tokens.)"
@@ -719,8 +719,8 @@
 			"maxTokensDescription": "Nombre màxim de tokens de sortida per a les respostes de Claude Code. El valor per defecte és 8000."
 		},
 		"zooGateway": {
-			"account": "Compte de Zoo Code",
-			"signInButton": "Iniciar sessió a Zoo Code",
+			"account": "Compte de Vin Code",
+			"signInButton": "Iniciar sessió a Vin Code",
 			"signInDescription": "Inicia sessió per utilitzar Zoo Gateway amb el teu compte",
 			"authenticated": "Autenticat",
 			"authenticatedAs": "Autenticat com a {{name}}"
@@ -913,9 +913,9 @@
 			"description": "Activa per heretar variables d'entorn del procés pare de VS Code. <0>Aprèn-ne més</0>"
 		},
 		"profile": {
-			"label": "Perfil de terminal de Zoo Code",
+			"label": "Perfil de terminal de Vin Code",
 			"followVscode": "Seguint el perfil de VS Code (recomanat)",
-			"description": "Per defecte, Zoo Code utilitza la shell que VS Code té configurada. Seleccioneu un perfil de la llista per triar un perfil de shell amb ruta explícita exposat per VS Code. Els perfils de només font (p. ex., l'entrada integrada de PowerShell) no es poden llistar aquí. <0>Més informació</0>",
+			"description": "Per defecte, Vin Code utilitza la shell que VS Code té configurada. Seleccioneu un perfil de la llista per triar un perfil de shell amb ruta explícita exposat per VS Code. Els perfils de només font (p. ex., l'entrada integrada de PowerShell) no es poden llistar aquí. <0>Més informació</0>",
 			"configureButton": "Trieu el perfil predeterminat a VS Code",
 			"noProfiles": "(no s'han trobat perfils amb ruta a terminal.integrated.profiles)"
 		}
@@ -1021,7 +1021,7 @@
 		"imageSupportUnknown": "Compatibilitat amb imatges no informada",
 		"toolSupportUnknown": "Compatibilitat amb eines no informada",
 		"promptCacheManagedByCopilot": "La memòria cau de prompts la gestiona GitHub Copilot",
-		"promptCacheCopilotDetails": "La memòria cau depèn del model i del backend de GitHub Copilot. Zoo Code no pot configurar la retenció de la memòria cau ni observar-ne els encerts a través de l'API de VS Code.",
+		"promptCacheCopilotDetails": "La memòria cau depèn del model i del backend de GitHub Copilot. Vin Code no pot configurar la retenció de la memòria cau ni observar-ne els encerts a través de l'API de VS Code.",
 		"supportsImages": "Suporta imatges",
 		"noImages": "No suporta imatges",
 		"supportsTools": "Suporta eines",
@@ -1046,7 +1046,7 @@
 		}
 	},
 	"modelPicker": {
-		"automaticFetch": "L'extensió obté automàticament la llista més recent de models disponibles a <serviceLink>{{serviceName}}</serviceLink>. Si no esteu segur de quin model triar, Zoo Code funciona millor amb <defaultModelLink>{{defaultModelId}}</defaultModelLink>. També podeu cercar \"free\" per a opcions gratuïtes actualment disponibles.",
+		"automaticFetch": "L'extensió obté automàticament la llista més recent de models disponibles a <serviceLink>{{serviceName}}</serviceLink>. Si no esteu segur de quin model triar, Vin Code funciona millor amb <defaultModelLink>{{defaultModelId}}</defaultModelLink>. També podeu cercar \"free\" per a opcions gratuïtes actualment disponibles.",
 		"label": "Model",
 		"searchPlaceholder": "Cerca",
 		"noMatchFound": "No s'ha trobat cap coincidència",
@@ -1056,7 +1056,7 @@
 	"footer": {
 		"telemetry": {
 			"label": "Permetre informes d'errors i ús",
-			"description": "Ajuda a millorar Zoo Code enviant dades d'ús i informes d'error, vinculades a un identificador d'instal·lació en lloc del teu nom o compte. Aquesta telemetria no recull el teu codi ni les teves indicacions. Consulta la nostra <privacyLink>política de privacitat</privacyLink> per a més detalls. Pots desactivar-ho en qualsevol moment."
+			"description": "Ajuda a millorar Vin Code enviant dades d'ús i informes d'error, vinculades a un identificador d'instal·lació en lloc del teu nom o compte. Aquesta telemetria no recull el teu codi ni les teves indicacions. Consulta la nostra <privacyLink>política de privacitat</privacyLink> per a més detalls. Pots desactivar-ho en qualsevol moment."
 		},
 		"settings": {
 			"import": "Importar",
@@ -1078,7 +1078,7 @@
 		"openAiExtraBody": {
 			"invalidJson": "El cos addicional ha de contenir JSON vàlid.",
 			"objectRequired": "El cos addicional ha de ser un objecte JSON.",
-			"reservedKeys": "El cos addicional no pot sobreescriure els camps gestionats per Zoo Code: {{keys}}."
+			"reservedKeys": "El cos addicional no pot sobreescriure els camps gestionats per Vin Code: {{keys}}."
 		},
 		"arn": {
 			"invalidFormat": "Format ARN no vàlid. Si us plau, comproveu els requisits del format.",
@@ -1090,7 +1090,7 @@
 		"modelNotAllowed": "El model '{{model}}' no està permès per al proveïdor '{{provider}}' per la vostra organització",
 		"profileInvalid": "Aquest perfil conté un proveïdor o model que no està permès per la vostra organització",
 		"qwenCodeOauthPath": "Has de proporcionar una ruta vàlida de credencials OAuth",
-		"zooGatewaySignIn": "Inicia sessió a Zoo Code per utilitzar Zoo Gateway."
+		"zooGatewaySignIn": "Inicia sessió a Vin Code per utilitzar Zoo Gateway."
 	},
 	"placeholders": {
 		"apiKey": "Introduïu la clau API...",
@@ -1161,7 +1161,7 @@
 		},
 		"chatFontSize": {
 			"label": "Mida de lletra del xat",
-			"description": "Defineix la mida de la lletra (en píxels) del xat de Zoo Code. Deixa-ho al valor per defecte per coincidir amb la mida de lletra del VS Code.",
+			"description": "Defineix la mida de la lletra (en píxels) del xat de Vin Code. Deixa-ho al valor per defecte per coincidir amb la mida de lletra del VS Code.",
 			"reset": "Utilitza el valor per defecte del VS Code"
 		},
 		"autoCloseZooOpenedFiles": {

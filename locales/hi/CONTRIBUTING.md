@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Zoo Code में योगदान
+# Vin Code में योगदान
 
-Zoo Code समुदाय की परियोजना है। हम हर योगदान को महत्व देते हैं। हम [पहले issue](#issue-first-approach) के तरीके से काम करते हैं। यानी हर [Pull Request (PR)](#submitting-a-pull-request) में GitHub issue का लिंक होना चाहिए। इस गाइड को ध्यान से पढ़ो।
+Vin Code समुदाय की परियोजना है। हम हर योगदान को महत्व देते हैं। हम [पहले issue](#issue-first-approach) के तरीके से काम करते हैं। यानी हर [Pull Request (PR)](#submitting-a-pull-request) में GitHub issue का लिंक होना चाहिए। इस गाइड को ध्यान से पढ़ो।
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ Zoo Code समुदाय की परियोजना है। हम ह
 ### भरोसेमंद काम सबसे पहले
 
 - diff से संपादन और कमांड चलाने को हर बार भरोसेमंद बनाओ।
-- उन समस्याओं को हटाओ जो लोगों को रोज़ Zoo Code इस्तेमाल करने से रोकती हैं।
-- Zoo Code को सभी भाषाओं और प्लेटफ़ॉर्म पर काम करने लायक बनाओ।
+- उन समस्याओं को हटाओ जो लोगों को रोज़ Vin Code इस्तेमाल करने से रोकती हैं।
+- Vin Code को सभी भाषाओं और प्लेटफ़ॉर्म पर काम करने लायक बनाओ।
 - अधिक AI प्रदाताओं और मॉडलों के लिए समर्थन जोड़ो।
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Zoo Code समुदाय की परियोजना है। हम ह
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Zoo Code समुदाय से जुड़ो
+### 3. Vin Code समुदाय से जुड़ो
 
 - **Discord:** हमारे [Discord](https://discord.gg/VxfP4Vx3gX) से जुड़ो।
 - **Reddit:** हमारे [Reddit](https://www.reddit.com/r/ZooCode/) से जुड़ो।
@@ -109,7 +109,7 @@ Zoo Code समुदाय की परियोजना है। हम ह
 ### किस पर काम करना है, यह तय करना
 
 - [GitHub Issues पेज](https://github.com/Zoo-Code-Org/Zoo-Code/issues) देखो।
-- दस्तावेज़ों के लिए [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs) पर जाओ।
+- दस्तावेज़ों के लिए [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs) पर जाओ।
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Zoo Code समुदाय की परियोजना है। हम ह
 - ["Bug Report" टेम्पलेट](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) से नई बग रिपोर्ट बनाओ और ये बातें जोड़ो:
     - बग दोहराने के स्पष्ट, क्रमांकित चरण
     - अपेक्षित परिणाम और वास्तविक परिणाम
-    - Zoo Code का संस्करण (ज़रूरी)
+    - Vin Code का संस्करण (ज़रूरी)
     - API प्रदाता और मॉडल, अगर वे मायने रखते हैं
 - **सुरक्षा समस्याएँ**: [सुरक्षा सलाह](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new) के माध्यम से निजी तौर पर रिपोर्ट करो।
 
@@ -258,4 +258,4 @@ AI से बने ऐसे बदलाव मत भेजो जिन्�
 
 ## कानूनी बातें
 
-योगदान देकर तुम सहमत होते हो कि तुम्हारे योगदान Apache 2.0 License का इस्तेमाल करेंगे। यह Zoo Code का लाइसेंस है।
+योगदान देकर तुम सहमत होते हो कि तुम्हारे योगदान Apache 2.0 License का इस्तेमाल करेंगे। यह Vin Code का लाइसेंस है।

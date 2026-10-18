@@ -13,9 +13,9 @@
 
 <a id="contributing-to-zoo-code"></a>
 
-# Contribuir a Zoo Code
+# Contribuir a Vin Code
 
-Zoo Code és un projecte comunitari. Valorem cada contribució. Treballem amb l'enfocament de [primer la incidència](#issue-first-approach). Cada [Pull Request (PR)](#submitting-a-pull-request) ha d'enllaçar a una incidència de GitHub. Llegeix aquesta guia amb atenció.
+Vin Code és un projecte comunitari. Valorem cada contribució. Treballem amb l'enfocament de [primer la incidència](#issue-first-approach). Cada [Pull Request (PR)](#submitting-a-pull-request) ha d'enllaçar a una incidència de GitHub. Llegeix aquesta guia amb atenció.
 
 <a id="table-of-contents"></a>
 
@@ -50,8 +50,8 @@ El nostre full de ruta mostra la direcció del projecte. Alinea les teves contri
 ### La fiabilitat primer
 
 - Fes que l'edició amb diff i l'execució d'ordres siguin fiables sempre.
-- Elimina els problemes que impedeixen fer servir Zoo Code cada dia.
-- Fes que Zoo Code funcioni en tots els idiomes i plataformes.
+- Elimina els problemes que impedeixen fer servir Vin Code cada dia.
+- Fes que Vin Code funcioni en tots els idiomes i plataformes.
 - Afegeix suport per a més proveïdors i models d'IA.
 
 <a id="enhanced-user-experience"></a>
@@ -73,7 +73,7 @@ Als teus PRs, indica quines d'aquestes àrees ajuda el canvi.
 
 <a id="3-join-the-zoo-code-community"></a>
 
-### 3. Uneix-te a la comunitat de Zoo Code
+### 3. Uneix-te a la comunitat de Vin Code
 
 - **Discord:** Uneix-te al nostre [Discord](https://discord.gg/VxfP4Vx3gX).
 - **Reddit:** Uneix-te al nostre [Reddit](https://www.reddit.com/r/ZooCode/).
@@ -109,7 +109,7 @@ Cada contribució comença amb una incidència de GitHub. Fes servir les nostres
 ### Decidir en què treballar
 
 - Consulta la [pàgina de GitHub Issues](https://github.com/Zoo-Code-Org/Zoo-Code/issues).
-- Per a la documentació, ves a [Zoo Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
+- Per a la documentació, ves a [Vin Code Docs](https://github.com/Zoo-Code-Org/Zoo-Code-Docs).
 
 <a id="reporting-bugs"></a>
 
@@ -119,7 +119,7 @@ Cada contribució comença amb una incidència de GitHub. Fes servir les nostres
 - Crea un informe d'error amb la [plantilla "Bug Report"](https://github.com/Zoo-Code-Org/Zoo-Code/issues/new/choose) i inclou:
     - Passos clars i numerats per reproduir l'error
     - Resultat esperat i resultat real
-    - Versió de Zoo Code (obligatòria)
+    - Versió de Vin Code (obligatòria)
     - Proveïdor d'API i model, si són rellevants
 - **Problemes de seguretat**: Informa'n en privat amb els [avisos de seguretat](https://github.com/Zoo-Code-Org/Zoo-Code/security/advisories/new).
 
@@ -258,4 +258,4 @@ Aquestes regles són pautes d'escriptura. Els revisors no comproven el complimen
 
 ## Aspectes legals
 
-Quan contribueixes, acceptes que les teves contribucions utilitzin la llicència Apache 2.0. Aquesta és la llicència de Zoo Code.
+Quan contribueixes, acceptes que les teves contribucions utilitzin la llicència Apache 2.0. Aquesta és la llicència de Vin Code.

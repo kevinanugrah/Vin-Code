@@ -1,5 +1,5 @@
 {
-	"greeting": "Willkommen bei Zoo Code!",
+	"greeting": "Willkommen bei Vin Code!",
 	"task": {
 		"title": "Aufgabe",
 		"expand": "Aufgabe erweitern",
@@ -98,7 +98,7 @@
 	"enqueueMessage": "Nachricht zur Warteschlange hinzufügen (wird nach Abschluss der aktuellen Aufgabe gesendet)",
 	"scrollToBottom": "Zum Chat-Ende scrollen",
 	"scrollToLatestCheckpoint": "Zum vorherigen Checkpoint scrollen",
-	"about": "Zoo Code ist ein ganzes KI-Entwicklerteam in deinem Editor.",
+	"about": "Vin Code ist ein ganzes KI-Entwicklerteam in deinem Editor.",
 	"docs": "Schau in unsere <DocsLink>Dokumentation</DocsLink>, um mehr zu erfahren.",
 	"onboarding": "Deine Aufgabenliste in diesem Arbeitsbereich ist leer.",
 	"rooTips": {
@@ -171,7 +171,7 @@
 			"500": "Fehler auf dem Server des Anbieters. Es stimmt etwas mit der Anbieterseite nicht, mit deiner Anfrage stimmt alles.",
 			"docs": "Dokumentation",
 			"goToSettings": "Einstellungen",
-			"unknown": "Unbekannter API-Fehler. Bitte kontaktiere den Zoo Code Support.",
+			"unknown": "Unbekannter API-Fehler. Bitte kontaktiere den Vin Code Support.",
 			"connection": "Verbindungsfehler. Stelle sicher, dass du eine funktionierende Internetverbindung hast.",
 			"claudeCodeNotAuthenticated": "Du musst dich anmelden, um Claude Code zu verwenden. Gehe zu den Einstellungen und klicke auf \"Bei Claude Code anmelden\", um dich zu authentifizieren."
 		}
@@ -349,12 +349,12 @@
 		"timerPrefix": "Automatische Genehmigung aktiviert. Wähle in {{seconds}}s…"
 	},
 	"announcement": {
-		"title": "Zoo Code {{version}} veröffentlicht",
-		"support": "Bitte unterstütze Zoo Code, indem du uns auf <githubLink>GitHub</githubLink> einen Stern gibst.",
+		"title": "Vin Code {{version}} veröffentlicht",
+		"support": "Bitte unterstütze Vin Code, indem du uns auf <githubLink>GitHub</githubLink> einen Stern gibst.",
 		"release": {
-			"heading": "Was ist neu im Zoo Code v3.90.0",
-			"highlight1": "✨ Provider und Modelle: GitHub Copilot ist jetzt ein Provider: Melde dich an, und Zoo Code lädt deine Copilot-Modelle. IO Intelligence ist ein Provider mit eigenem API-Schlüssel. Gemini 4 Argon gibt es bei Gemini und Vertex. GPT-6 Luna gibt es bei OpenCode Go. Gemini 4 Argon und GPT-6 Luna gibt es auch im Zoo Gateway.",
-			"highlight2": "🧭 Tool-Ausführung: Wiederholst du denselben Tool-Aufruf, kommt eine Warnung, danach stoppt Zoo Code diese Schleife. attempt_completion auszuschalten lässt eine Aufgabe nicht mehr unfertig stecken. Nachrichten in der Warteschlange durchlaufen dieselben Befehlsschutzprüfungen wie Befehle, die du direkt sendest.",
+			"heading": "Was ist neu im Vin Code v3.90.0",
+			"highlight1": "✨ Provider und Modelle: GitHub Copilot ist jetzt ein Provider: Melde dich an, und Vin Code lädt deine Copilot-Modelle. IO Intelligence ist ein Provider mit eigenem API-Schlüssel. Gemini 4 Argon gibt es bei Gemini und Vertex. GPT-6 Luna gibt es bei OpenCode Go. Gemini 4 Argon und GPT-6 Luna gibt es auch im Zoo Gateway.",
+			"highlight2": "🧭 Tool-Ausführung: Wiederholst du denselben Tool-Aufruf, kommt eine Warnung, danach stoppt Vin Code diese Schleife. attempt_completion auszuschalten lässt eine Aufgabe nicht mehr unfertig stecken. Nachrichten in der Warteschlange durchlaufen dieselben Befehlsschutzprüfungen wie Befehle, die du direkt sendest.",
 			"highlight3": "⚡ Reasoning und Streaming: Adaptives Anthropic-Thinking erscheint im Chat, und Thinking-Tokens werden gezählt. Der R1-Schalter behält das Reasoning von llama.cpp, Ollama und LM Studio. Codex behält verschlüsseltes Reasoning zusammen mit der Zusammenfassung, die du siehst. VS-Code-Language-Model-Streams nutzen guarded recovery, wenn ein Stream fehlschlägt."
 		},
 		"cloudAgents": {
@@ -379,7 +379,7 @@
 	"profileViolationWarning": "Das aktuelle Profil ist nicht kompatibel mit den Einstellungen deiner Organisation",
 	"shellIntegration": {
 		"title": "Befehlsausführungswarnung",
-		"description": "Dein Befehl wird ohne VSCode Terminal-Shell-Integration ausgeführt. Um diese Warnung zu unterdrücken, kannst du die Shell-Integration im Abschnitt <strong>Terminal</strong> der <settingsLink>Zoo Code Einstellungen</settingsLink> deaktivieren oder die VSCode Terminal-Integration mit dem Link unten beheben.",
+		"description": "Dein Befehl wird ohne VSCode Terminal-Shell-Integration ausgeführt. Um diese Warnung zu unterdrücken, kannst du die Shell-Integration im Abschnitt <strong>Terminal</strong> der <settingsLink>Vin Code Einstellungen</settingsLink> deaktivieren oder die VSCode Terminal-Integration mit dem Link unten beheben.",
 		"troubleshooting": "Klicke hier für die Shell-Integrationsdokumentation."
 	},
 	"ask": {

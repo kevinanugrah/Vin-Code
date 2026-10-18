@@ -24,6 +24,27 @@
 				"group": "tasks",
 				"order": 1
 			}
+		},
+		{
+			// Gunakan konfigurasi ini saat ketiga proses watch sudah berjalan
+			// (Vite webview, watch:bundle, watch:tsc) agar tidak dijalankan dua kali.
+			"name": "Run Extension (No Build)",
+			"type": "extensionHost",
+			"request": "launch",
+			"runtimeExecutable": "${execPath}",
+			"args": ["--extensionDevelopmentPath=${workspaceFolder}/src", "--disable-extensions"],
+			"sourceMaps": true,
+			"outFiles": ["${workspaceFolder}/src/dist/**/*.js"],
+			"env": {
+				"NODE_ENV": "development",
+				"VSCODE_DEBUG_MODE": "true"
+			},
+			"resolveSourceMapLocations": ["${workspaceFolder}/**", "!**/node_modules/**"],
+			"presentation": {
+				"hidden": false,
+				"group": "tasks",
+				"order": 2
+			}
 		}
 	]
 }

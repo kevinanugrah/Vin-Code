@@ -27,7 +27,7 @@ export function AccessibilityContrastGallery() {
 							New task
 						</h1>
 						<p data-testid="chat-description" className="m-0 text-sm text-vscode-descriptionForeground">
-							Describe what Zoo Code should build or investigate.
+							Describe what Vin Code should build or investigate.
 						</p>
 					</div>
 					<IconButton iconClass="codicon-settings-gear" title="Chat settings" tooltip={false} />

@@ -1,5 +1,5 @@
 {
-	"greeting": "Witamy w Zoo Code!",
+	"greeting": "Witamy w Vin Code!",
 	"task": {
 		"title": "Zadanie",
 		"expand": "Rozwiń zadanie",
@@ -98,7 +98,7 @@
 	"enqueueMessage": "Dodaj wiadomość do kolejki (zostanie wysłana po zakończeniu bieżącego zadania)",
 	"scrollToBottom": "Przewiń do dołu czatu",
 	"scrollToLatestCheckpoint": "Przewiń do poprzedniego punktu kontrolnego",
-	"about": "Zoo Code to cały zespół deweloperów AI w Twoim edytorze.",
+	"about": "Vin Code to cały zespół deweloperów AI w Twoim edytorze.",
 	"docs": "Sprawdź naszą <DocsLink>dokumentację</DocsLink>, aby dowiedzieć się więcej.",
 	"onboarding": "Twoja lista zadań w tym obszarze roboczym jest pusta.",
 	"rooTips": {
@@ -171,7 +171,7 @@
 			"500": "Błąd serwera dostawcy. Po stronie dostawcy coś się nie powiodło, w Twoim żądaniu nie ma nic złego.",
 			"docs": "Dokumentacja",
 			"goToSettings": "Ustawienia",
-			"unknown": "Nieznany błąd API. Skontaktuj się z pomocą techniczną Zoo Code.",
+			"unknown": "Nieznany błąd API. Skontaktuj się z pomocą techniczną Vin Code.",
 			"connection": "Błąd połączenia. Upewnij się, że masz działające połączenie internetowe.",
 			"claudeCodeNotAuthenticated": "Musisz się zalogować, aby korzystać z Claude Code. Przejdź do Ustawień i kliknij \"Zaloguj się do Claude Code\", aby się uwierzytelnić."
 		}
@@ -349,12 +349,12 @@
 		"timerPrefix": "Automatyczne zatwierdzanie włączone. Zaznaczanie za {{seconds}}s…"
 	},
 	"announcement": {
-		"title": "Zoo Code {{version}} wydany",
-		"support": "Wesprzyj Zoo Code, dając nam gwiazdkę na <githubLink>GitHub</githubLink>.",
+		"title": "Vin Code {{version}} wydany",
+		"support": "Wesprzyj Vin Code, dając nam gwiazdkę na <githubLink>GitHub</githubLink>.",
 		"release": {
-			"heading": "Nowości w Zoo Code v3.90.0",
-			"highlight1": "✨ Dostawcy i modele: GitHub Copilot jest teraz dostawcą: zaloguj się, a Zoo Code wczyta twoje modele Copilot. IO Intelligence to dostawca z własnym kluczem API. Gemini 4 Argon jest w Gemini i Vertex. GPT-6 Luna jest w OpenCode Go. Gemini 4 Argon i GPT-6 Luna są też w Zoo Gateway.",
-			"highlight2": "🧭 Wykonywanie narzędzi: Powtórzenie tego samego wywołania narzędzia daje ostrzeżenie, a potem Zoo Code zatrzymuje tę pętlę. Wyłączenie attempt_completion nie zostawia już zadania, które nie może się zakończyć. Wiadomości w kolejce przechodzą te same kontrole ochrony poleceń co polecenia wysyłane bezpośrednio.",
+			"heading": "Nowości w Vin Code v3.90.0",
+			"highlight1": "✨ Dostawcy i modele: GitHub Copilot jest teraz dostawcą: zaloguj się, a Vin Code wczyta twoje modele Copilot. IO Intelligence to dostawca z własnym kluczem API. Gemini 4 Argon jest w Gemini i Vertex. GPT-6 Luna jest w OpenCode Go. Gemini 4 Argon i GPT-6 Luna są też w Zoo Gateway.",
+			"highlight2": "🧭 Wykonywanie narzędzi: Powtórzenie tego samego wywołania narzędzia daje ostrzeżenie, a potem Vin Code zatrzymuje tę pętlę. Wyłączenie attempt_completion nie zostawia już zadania, które nie może się zakończyć. Wiadomości w kolejce przechodzą te same kontrole ochrony poleceń co polecenia wysyłane bezpośrednio.",
 			"highlight3": "⚡ Rozumowanie i streaming: Adaptacyjne myślenie Anthropic widać na czacie, a thinking tokeny są liczone. Przełącznik R1 zachowuje rozumowanie z llama.cpp, Ollama i LM Studio. Codex zachowuje zaszyfrowane rozumowanie razem z podsumowaniem, które widzisz. Strumienie modelu językowego VS Code używają guarded recovery, gdy strumień się nie powiedzie."
 		},
 		"cloudAgents": {
@@ -379,7 +379,7 @@
 	"profileViolationWarning": "Bieżący profil nie jest kompatybilny z ustawieniami Twojej organizacji",
 	"shellIntegration": {
 		"title": "Ostrzeżenie wykonania polecenia",
-		"description": "Twoje polecenie jest wykonywane bez integracji powłoki terminala VSCode. Aby ukryć to ostrzeżenie, możesz wyłączyć integrację powłoki w sekcji <strong>Terminal</strong> w <settingsLink>ustawieniach Zoo Code</settingsLink> lub rozwiązać problemy z integracją terminala VSCode korzystając z poniższego linku.",
+		"description": "Twoje polecenie jest wykonywane bez integracji powłoki terminala VSCode. Aby ukryć to ostrzeżenie, możesz wyłączyć integrację powłoki w sekcji <strong>Terminal</strong> w <settingsLink>ustawieniach Vin Code</settingsLink> lub rozwiązać problemy z integracją terminala VSCode korzystając z poniższego linku.",
 		"troubleshooting": "Kliknij tutaj, aby zobaczyć dokumentację integracji powłoki."
 	},
 	"ask": {

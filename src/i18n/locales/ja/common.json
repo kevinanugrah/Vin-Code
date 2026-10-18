@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "エディター内のAIデベロッパーチーム全体。"
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "ZooCode設定の自動インポートに失敗しました：{{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "{{domain}}からインポートするRoo Codeのタスク履歴が見つかりませんでした。",
-			"alreadyImported_one": "{{count}}件のRoo Codeタスク履歴はすでにZoo Codeにインポート済みです。",
-			"alreadyImported_other": "{{count}}件のRoo Codeタスク履歴はすでにZoo Codeにインポート済みです。"
+			"alreadyImported_one": "{{count}}件のRoo Codeタスク履歴はすでにVin Codeにインポート済みです。",
+			"alreadyImported_other": "{{count}}件のRoo Codeタスク履歴はすでにVin Codeにインポート済みです。"
 		}
 	},
 	"info": {
@@ -179,8 +179,8 @@
 			"signInUnavailable": "Roo Code Cloud へのサインインは現在利用できません。続行するには別のプロバイダーを設定してください。"
 		},
 		"rooHistoryImport": {
-			"success_one": "{{count}}件のRoo CodeタスクをZoo Codeにインポートしました。",
-			"success_other": "{{count}}件のRoo CodeタスクをZoo Codeにインポートしました。"
+			"success_one": "{{count}}件のRoo CodeタスクをVin Codeにインポートしました。",
+			"success_other": "{{count}}件のRoo CodeタスクをVin Codeにインポートしました。"
 		}
 	},
 	"answers": {
@@ -274,18 +274,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: 無効な認証 token を受信しました。",
-			"token_verification_failed": "Zoo Code: Token の検証に失敗しました。",
-			"invalid_token": "Zoo Code: 無効な token です。",
-			"could_not_verify_token": "Zoo Code: Token を検証できませんでした。",
-			"session_expired": "Zoo Codeのセッションの有効期限が切れました。Zoo Gatewayを引き続き使用するには、再度サインインしてください。",
+			"invalid_token_received": "Vin Code: 無効な認証 token を受信しました。",
+			"token_verification_failed": "Vin Code: Token の検証に失敗しました。",
+			"invalid_token": "Vin Code: 無効な token です。",
+			"could_not_verify_token": "Vin Code: Token を検証できませんでした。",
+			"session_expired": "Vin Codeのセッションの有効期限が切れました。Zoo Gatewayを引き続き使用するには、再度サインインしてください。",
 			"out_of_credits": "Zoo Gateway: クレジットが不足しています。続行するにはクレジットを追加してください。",
 			"account_unavailable": "Zoo Gateway: 現在アカウントを利用できません。サポートまでお問い合わせください。",
 			"budget_exceeded": "Zoo Gateway: 利用予算に達しました。リセットを待つかチャージしてください。"
 		},
 		"info": {
-			"connected": "Zoo Code: 接続に成功しました！Zoo Code を AI プロバイダーとして使用できます。",
-			"disconnected": "Zoo Code: 正常に切断されました。"
+			"connected": "Vin Code: 接続に成功しました！Vin Code を AI プロバイダーとして使用できます。",
+			"disconnected": "Vin Code: 正常に切断されました。"
 		},
 		"buttons": {
 			"sign_in": "サインイン",
@@ -294,9 +294,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Zoo Codeで説明",
-		"fix": "Zoo Codeで修正",
-		"improve": "Zoo Codeで改善",
-		"addToContext": "Zoo Codeに追加"
+		"explain": "Vin Codeで説明",
+		"fix": "Vin Codeで修正",
+		"improve": "Vin Codeで改善",
+		"addToContext": "Vin Codeに追加"
 	}
 }

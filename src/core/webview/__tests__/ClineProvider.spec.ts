@@ -685,7 +685,7 @@ describe("ClineProvider", () => {
 			panelState = makeEventEmitter<vscode.WebviewPanelOnDidChangeViewStateEvent>()
 			panel = {
 				viewType: ClineProvider.tabPanelId,
-				title: "Zoo Code",
+				title: "Vin Code",
 				viewColumn: undefined,
 				webview: tab.view.webview,
 				options: {},
@@ -1049,7 +1049,7 @@ describe("ClineProvider", () => {
 		})
 
 		expect(mockWebviewView.webview.html).toContain("<!DOCTYPE html>")
-		expect(mockWebviewView.webview.html).toContain("<title>Zoo Code</title>")
+		expect(mockWebviewView.webview.html).toContain("<title>Vin Code</title>")
 	})
 
 	describe("logWebviewHiddenDiagnostics", () => {
@@ -5876,7 +5876,7 @@ describe("ClineProvider - Comprehensive Edit/Delete Edge Cases", () => {
 		})
 	})
 
-	describe("Zoo Code auth profile sync", () => {
+	describe("Vin Code auth profile sync", () => {
 		beforeEach(async () => {
 			const { getCachedZooCodeToken } = await import("../../../services/zoo-code-auth")
 			vi.mocked(getCachedZooCodeToken).mockReturnValue("")

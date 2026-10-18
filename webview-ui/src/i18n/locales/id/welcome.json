@@ -1,18 +1,18 @@
 {
 	"landing": {
-		"greeting": "Selamat datang di Zoo Code!",
-		"introduction": "Dengan berbagai Mode bawaan dan dapat diperluas, Zoo Code memungkinkan Anda merencanakan, merancang, coding, debug, dan meningkatkan produktivitas seperti yang belum pernah terjadi sebelumnya.",
+		"greeting": "Selamat datang di Vin Code!",
+		"introduction": "Dengan berbagai Mode bawaan dan dapat diperluas, Vin Code memungkinkan Anda merencanakan, merancang, coding, debug, dan meningkatkan produktivitas seperti yang belum pernah terjadi sebelumnya.",
 		"getStarted": "Pilih penyedia Anda"
 	},
 	"providerSignup": {
 		"heading": "Pilih penyedia Anda",
-		"chooseProvider": "Zoo Code memerlukan penyedia LLM untuk bekerja. Pilih satu untuk memulai, Anda dapat menambahkan lebih banyak nanti.",
+		"chooseProvider": "Vin Code memerlukan penyedia LLM untuk bekerja. Pilih satu untuk memulai, Anda dapat menambahkan lebih banyak nanti.",
 		"goBack": "Kembali",
 		"finish": "Selesai"
 	},
 	"telemetry": {
-		"helpImprove": "Bantu Tingkatkan Zoo Code",
-		"helpImproveMessage": "Zoo Code mengumpulkan data kesalahan dan penggunaan, yang terkait dengan pengenal instalasi, untuk membantu kami memperbaiki bug dan meningkatkan ekstensi. Telemetri ini tidak mengumpulkan kode atau prompt Anda. Anda dapat menonaktifkannya di <settingsLink>pengaturan</settingsLink>.",
+		"helpImprove": "Bantu Tingkatkan Vin Code",
+		"helpImproveMessage": "Vin Code mengumpulkan data kesalahan dan penggunaan, yang terkait dengan pengenal instalasi, untuk membantu kami memperbaiki bug dan meningkatkan ekstensi. Telemetri ini tidak mengumpulkan kode atau prompt Anda. Anda dapat menonaktifkannya di <settingsLink>pengaturan</settingsLink>.",
 		"accept": "Terima",
 		"decline": "Tolak"
 	},

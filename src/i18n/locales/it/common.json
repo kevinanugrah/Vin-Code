@@ -1,6 +1,6 @@
 {
 	"extension": {
-		"name": "Zoo Code",
+		"name": "Vin Code",
 		"description": "Un intero team di sviluppatori AI nel tuo editor."
 	},
 	"number_format": {
@@ -156,8 +156,8 @@
 		"auto_import_failed": "Importazione automatica delle impostazioni ZooCode fallita: {{error}}",
 		"rooHistoryImport": {
 			"nothingFound": "Nessuna cronologia di attività Roo Code trovata da importare da {{domain}}.",
-			"alreadyImported_one": "La cronologia di {{count}} attività Roo Code è già stata importata in Zoo Code.",
-			"alreadyImported_other": "Tutte le {{count}} cronologie di attività Roo Code sono già state importate in Zoo Code."
+			"alreadyImported_one": "La cronologia di {{count}} attività Roo Code è già stata importata in Vin Code.",
+			"alreadyImported_other": "Tutte le {{count}} cronologie di attività Roo Code sono già state importate in Vin Code."
 		}
 	},
 	"info": {
@@ -179,8 +179,8 @@
 			"signInUnavailable": "L'accesso a Roo Code Cloud non è attualmente disponibile. Configura un altro provider per continuare."
 		},
 		"rooHistoryImport": {
-			"success_one": "Importata {{count}} cronologia di attività Roo Code in Zoo Code.",
-			"success_other": "Importate {{count}} cronologie di attività Roo Code in Zoo Code."
+			"success_one": "Importata {{count}} cronologia di attività Roo Code in Vin Code.",
+			"success_other": "Importate {{count}} cronologie di attività Roo Code in Vin Code."
 		}
 	},
 	"answers": {
@@ -274,18 +274,18 @@
 	},
 	"zooAuth": {
 		"errors": {
-			"invalid_token_received": "Zoo Code: Ricevuto un token di autenticazione non valido.",
-			"token_verification_failed": "Zoo Code: Verifica del token non riuscita.",
-			"invalid_token": "Zoo Code: Token non valido.",
-			"could_not_verify_token": "Zoo Code: Impossibile verificare il token.",
-			"session_expired": "Sessione Zoo Code scaduta. Accedi di nuovo per continuare a usare Zoo Gateway.",
+			"invalid_token_received": "Vin Code: Ricevuto un token di autenticazione non valido.",
+			"token_verification_failed": "Vin Code: Verifica del token non riuscita.",
+			"invalid_token": "Vin Code: Token non valido.",
+			"could_not_verify_token": "Vin Code: Impossibile verificare il token.",
+			"session_expired": "Sessione Vin Code scaduta. Accedi di nuovo per continuare a usare Zoo Gateway.",
 			"out_of_credits": "Zoo Gateway: crediti insufficienti. Aggiungi crediti per continuare.",
 			"account_unavailable": "Zoo Gateway: il tuo account non è attualmente disponibile. Contatta l'assistenza.",
 			"budget_exceeded": "Zoo Gateway: budget di utilizzo raggiunto. Attendi il reset o ricarica."
 		},
 		"info": {
-			"connected": "Zoo Code: Connesso con successo! Ora puoi usare Zoo Code come fornitore AI.",
-			"disconnected": "Zoo Code: Disconnesso con successo."
+			"connected": "Vin Code: Connesso con successo! Ora puoi usare Vin Code come fornitore AI.",
+			"disconnected": "Vin Code: Disconnesso con successo."
 		},
 		"buttons": {
 			"sign_in": "Accedi",
@@ -294,9 +294,9 @@
 		}
 	},
 	"codeActions": {
-		"explain": "Spiega con Zoo Code",
-		"fix": "Correggi con Zoo Code",
-		"improve": "Migliora con Zoo Code",
-		"addToContext": "Aggiungi a Zoo Code"
+		"explain": "Spiega con Vin Code",
+		"fix": "Correggi con Vin Code",
+		"improve": "Migliora con Vin Code",
+		"addToContext": "Aggiungi a Vin Code"
 	}
 }

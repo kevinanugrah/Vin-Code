@@ -1,22 +1,22 @@
-# Zoo Code Privacy Policy
+# Vin Code Privacy Policy
 
 **Last Updated: August 15th, 2026**
 
-Zoo Code respects your privacy and is committed to transparency about how we
+Vin Code respects your privacy and is committed to transparency about how we
 handle your data. Below is a simple breakdown of where key pieces of data
 go—and, importantly, where they don't.
 
 ## **Where Your Data Goes (And Where It Doesn’t)**
 
-- **Code & Files**: Zoo Code accesses files on your local machine when needed
-  for AI-assisted features. When you send commands to Zoo Code, relevant files
+- **Code & Files**: Vin Code accesses files on your local machine when needed
+  for AI-assisted features. When you send commands to Vin Code, relevant files
   may be transmitted to your chosen AI model provider (e.g., OpenAI, Anthropic,
   OpenRouter) to generate responses. If you select Zoo Code Cloud as the model
-  provider (proxy mode), your code may transit Zoo Code servers only to forward
+  provider (proxy mode), your code may transit Vin Code servers only to forward
   it to the upstream provider. We do not store your code; it is deleted
   immediately after forwarding. Otherwise, your code is sent directly to the
   provider. AI providers may store data per their privacy policies.
-- **Commands**: Any commands executed through Zoo Code happen on your local
+- **Commands**: Any commands executed through Vin Code happen on your local
   environment. However, when you use AI-powered features, the relevant code and
   context from your commands may be transmitted to your chosen AI model provider
   (e.g., OpenAI, Anthropic, OpenRouter) to generate responses. We do not have
@@ -27,13 +27,13 @@ go—and, importantly, where they don't.
   OpenAI, Anthropic, OpenRouter) to generate responses. We do not store or
   process this data. These AI providers have their own privacy policies and may
   store data per their terms of service. If you choose Zoo Code Cloud as the
-  provider (proxy mode), prompts may transit Zoo Code servers only to forward
+  provider (proxy mode), prompts may transit Vin Code servers only to forward
   them to the upstream model and are not stored.
 - **API Keys & Credentials**: If you enter an API key (e.g., to connect an AI
   model), it is stored locally on your device and never sent to us or any third
   party, except the provider you have chosen.
 - **Telemetry (Usage Data)**: We collect feature usage and error data to help us
-  improve Zoo Code. This telemetry is powered by PostHog and includes your VS
+  improve Vin Code. This telemetry is powered by PostHog and includes your VS
   Code machine ID, feature usage patterns, and exception reports. The VS Code
   machine ID is a persistent identifier and may be considered personal data in
   some jurisdictions; we use it only for product analytics and error grouping.
@@ -42,27 +42,27 @@ go—and, importantly, where they don't.
   prompts. Telemetry is on by default. To turn it off, choose "Disabled" in
   the settings or in the notice shown on first use. The notice remains until
   you explicitly Accept or Decline. Telemetry also follows VS Code's own
-  global telemetry setting: if you turn that off, Zoo Code stops sending
-  telemetry right away, even if the Zoo Code setting says "Enabled."
+  global telemetry setting: if you turn that off, Vin Code stops sending
+  telemetry right away, even if the Vin Code setting says "Enabled."
 - **Marketplace Requests**: When you browse or search the Marketplace for Model
-  Configuration Profiles (MCPs) or Custom Modes, Zoo Code makes a secure API
-  call to Zoo Code's backend servers to retrieve listing information. These
+  Configuration Profiles (MCPs) or Custom Modes, Vin Code makes a secure API
+  call to Vin Code's backend servers to retrieve listing information. These
   requests send only the query parameters (e.g., extension version, search term)
   necessary to fulfill the request and do not include your code, prompts, or
   personally identifiable information.
 
 ## **How We Use Your Data (If Collected)**
 
-- We use telemetry to understand feature usage and improve Zoo Code.
+- We use telemetry to understand feature usage and improve Vin Code.
 - We do **not** sell or share your data.
 - We do **not** train any models on your data.
 
 ## **Your Choices & Control**
 
 - You can run models locally to prevent data being sent to third-parties.
-- Telemetry collection is enabled by default to help us improve Zoo Code, but
+- Telemetry collection is enabled by default to help us improve Vin Code, but
   you can opt out at any time through the settings.
-- You can delete Zoo Code to stop all data collection.
+- You can delete Vin Code to stop all data collection.
 
 ## **Security & Updates**
 
@@ -75,4 +75,4 @@ For any privacy-related questions, reach out to us at support@zoocode.dev.
 
 ---
 
-By using Zoo Code, you agree to this Privacy Policy.
+By using Vin Code, you agree to this Privacy Policy.
